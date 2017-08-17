@@ -22,7 +22,7 @@ While they set a three-dog maximum on the patio at any given time, Victoria Park
 With 30 tap lines, and the Paddletron 3000, Beertown is a Waterloo staple that also happens to feature a massive, dog-friendly patio. Nestled in the heart of downtown Waterloo, Beertown is close to ample parking, and has both a mile-long beer menu, and great food. When you're on a date with your dog, what more could you ask for?
 
 
-![_config.yml]({{ site.baseurl }}/images/d0495a_d54ae3cbb97f498e8eb96746062c60f5-mv2)
+![_config.yml]({{ site.baseurl }}/images/d0495a_8ea97b7cdfee4a2195b28e6768ad9bd4-mv2)
 
 **The Yeti Cafe - Kitchener**
 
