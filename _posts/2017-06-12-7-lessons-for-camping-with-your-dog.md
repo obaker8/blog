@@ -77,6 +77,6 @@ These lessons all sound kind of negative now that I've typed them all out, but r
 
 Jenn and I are taking Clara back to Killbear Park next week for another weekend getaway into the wilderness, and we couldn't be more excited about it. And now that we have a few trips under our belt, and the lessons learned above, I know Clara will have the time of her life, and we'll be able to relax knowing she's happy and safe.
 
-![_config.yml]({{ site.baseurl }}/images/d0495a_f4ed45dbcc9c4f999a75586fcd2be17a-mv2.webp)
+![_config.yml]({{ site.baseurl }}/images/d0495a_f4ed45dbcc9c4f999a75586fcd2be17a-mv2)
 
 
