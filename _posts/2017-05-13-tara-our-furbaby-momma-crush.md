@@ -1,7 +1,8 @@
 ---
 layout: post
 comments: true
-title: Tara: Our Furbaby Momma Crush
+title: "Tara: Our Furbaby Momma Crush"
+date: 2017-05-13
 ---
 
 If you don't already know, Mother's Day is tomorrow and we hope you're all spending some quality time with your mommas. Here at Furevery we think Mother's Day should also celebrate all those Furbaby Mommas out there. The ones that get up early to walk their pooches, coordinate their schedules around their dog, the ones that go for long walks in all kinds of weather, and the ones that pull out their phones to show EVERYONE how cute their dog is. Today we're putting the spotlight on Furbaby Momma Tara and her furbaby Winston. We're asking Tara all about motherhood.
