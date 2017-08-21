@@ -18,22 +18,37 @@ Below are some of our favourite makeup brands that do not test on animals. We i
 ![_config.yml]({{ site.baseurl }}/images/56470fbc04954ebfb386f4a0048e8346)
 
 **MID TO HIGH-END BRANDS**
-Anastasia Beverly Hills - The 'Liquid Lipstick' is my favourite for a long-lasting matte look. 
+
+Anastasia Beverly Hills - The 'Liquid Lipstick' is my favourite for a long-lasting matte look.
+
 Too Faced* - Their 'Better Than Sex Mascara' is a god send for your lashes!
+
 Urban Decay*- Any of the 'Naked' eyeshadow palettes, 'Naked3' is my personal fave.
+
 Kat Von D - We love her 'Lock-It Setting Powder'!
+
 Becca*- Like everyone, we're obsessed with Chrissy Teigen and love the new 'Glow Face Palette'.
-Nars*- The 'Radiant Creamy Concealer' is seriously the best concealer I've ever used! Also love the Nars 'Luminous' Foundation! 
+
+Nars*- The 'Radiant Creamy Concealer' is seriously the best concealer I've ever used! Also love the Nars 'Luminous' Foundation!
+
 Marc Jacobs Beauty- Their 'Perfecting Coconut Face Primer' is out of this world good.
+
 Tarte*- I am obsessed over this highlighter trend in general, but especially the 'Amazonian Clay 12-Hour Highlighter' by Tarte.
+
 Cargo- The 'OneBase' is a concealer and foundation in one...need we say more?
+
 Lush- Give me all the bath bombs!!
+
 The Body Shop*- Any of their body sorbets!
 
 **DRUGSTORE BRANDS**
-NYX*- The 'Butter Gloss' Lipglosses smell amazing, last a long time and AREN'T sticky! Win! 
-Marcelle- Not technically makeup, but Marcelle makes the BEST makeup removers! 
+
+NYX*- The 'Butter Gloss' Lipglosses smell amazing, last a long time and AREN'T sticky! Win!
+
+Marcelle- Not technically makeup, but Marcelle makes the BEST makeup removers!
+
 Gosh- Really loving the Gosh Shimmer Powder.
+
 WetNWild- Any of their fun blushes!
 
 Note: Every brand above does not personally test on animals, but the brands with the * beside their name indicates that their parent company does test on animals. For example, L'Oreal owns Urban Decay, and L'Oreal still tests on animals, although Urban Decay does not.
