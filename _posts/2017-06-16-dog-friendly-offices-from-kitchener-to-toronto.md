@@ -11,7 +11,7 @@ Companies are learning that investing in corporate culture has huge benefits, li
 
 Culture can also be used as a recruiting tool to attract and retain talent. So today we're putting the spotlight on one of our favourite corporate culture perks... **DOG FRIENDLY OFFICES!!** We believe that dog friendly offices reduce stress, boost productivity, and boost morale. Dogs in the office help improve work-life balance, encourage collaboration between coworkers and ultimately lower stress! If you're on the hunt for a job with dog-friendly offices, then take a peak below to discover the local organizations that promote a dog-friendly atmospheres! (or use this list to convince your current employer to go dog-friendly).
 
-![_config.yml]({{ site.baseurl }}/images/d0495a_23886f30a063420e989eccbe87f3de60-mv2)
+![_config.yml]({{ site.baseurl }}/images/d0495a_23886f30a063420e989eccbe87f3de60-mv2.webp)
 
 **Kitchener-Waterloo**
 
