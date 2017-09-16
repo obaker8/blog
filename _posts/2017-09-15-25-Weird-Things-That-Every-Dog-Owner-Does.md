@@ -7,29 +7,33 @@ date: 2017-09-15
 
 Today on the blog we’re talking about 25 weird things that every dog owner does, so therefore it is not weird….
 
-1.     Constantly come up with better and better nicknames for your Dog (ie. Dog’s original name: Bear, Dog’s eventually nickname: Hairy Beary, the Mayor of Beartown, USA).
+1.  Constantly come up with better and better nicknames for your Dog (ie. Dog’s original name: Bear, Dog’s eventually nickname: Hairy Beary, the Mayor of Beartown, USA).
 
-2.     Lie on the floor to see what they would do if you fainted
+2.  Lie on the floor to see what they would do if you fainted
 
-3.     OR pretend to cry and see if they come to your rescue
+3.  OR pretend to cry and see if they come to your rescue
 
-4.     Then actually cry if they don’t do anything in response to your fake faint or fake cry
+4.  Then actually cry if they don’t do anything in response to your fake faint or fake cry
 
-5.     Conduct a professional photo shoot of your dog every time they fall asleep
+5.  Conduct a professional photo shoot of your dog every time they fall asleep
 
-6.     Point and say “that’s you” when your dog walks past a mirror
+![_config.yml]({{ site.baseurl }}/images/dog photo shoot)
 
-7.     Hold your dog’s paw when you’re snuggling and tell everyone that you’re holding hands
+6.  Point and say “that’s you” when your dog walks past a mirror
 
-8.     Stare at your dog and wonder what they’re thinking
+7.  Hold your dog’s paw when you’re snuggling and tell everyone that you’re holding hands
 
-9.     …and why they’re so gosh darn cute
+8.  Stare at your dog and wonder what they’re thinking
+
+9.  …and why they’re so gosh darn cute
 
 10.  …and if they know how loved they are
 
 11.  Feel offended if no one makes a fuss over your dog when you’re out in public with them
 
 12.  Say “you’re nakey” every time you take their collar off
+
+![_config.yml]({{ site.baseurl }}/images/Untitled)
 
 13.  Say “bless you” when they sneeze
 
@@ -52,6 +56,8 @@ Today on the blog we’re talking about 25 weird things that every dog owner doe
 22.  Cancel plans to stay home and hang out with your dog
 
 23.  Throw a Birthday party for your dog (and obviously make it BYOD - Bring Your Own Dog)
+
+![_config.yml]({{ site.baseurl }}/images/dog birthday)
 
 24.  Call your dog by terms of endearment like ‘honey, baby cakes, sugar plum, beefcake’
 
