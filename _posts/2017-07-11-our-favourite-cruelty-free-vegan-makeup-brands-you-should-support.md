@@ -4,7 +4,7 @@ comments: true
 title: "Our Favourite Cruelty-Free & Vegan Makeup Brands You Should Support"
 date: 2017-07-11
 ---
-![_config.yml]({{ site.baseurl }}/images/7a12f1494a164bc394d36574e24f47b5)
+![_config.yml]({{ site.baseurl }}/images/7a12f1494a164bc394d36574e24f47b5.webp)
 
 As I began my research for this post, I almost fell off my chair reading some of the statistics related to Animal Testing. It is 2017, how is animal testing still a thing? There are so many non-animal testing methods that are much more humane and actually cheaper, faster and more pertinent to humans. The sad reality is that animal testing does still occur, in fact more than 100 million animals suffer and die in the U.S. every year in cruel chemical, drug, food, and cosmetics tests. PETA and HSI have global campaigns that are aimed at exposing and ending the use of animals in experiments. The EU, India and Israel have implemented bans against animal testing. However, there are still many makeup brands that use animals in their testing and still many countries that haven't implemented laws against such testing.
 
@@ -15,7 +15,7 @@ Many of us dog parents, are animal lovers in general. Dogs may be our favourite 
 
 Below are some of our favourite makeup brands that do not test on animals. We included cruelty free make-up brands for every budget from high-end to drugstore brands. (Note: There are many more cruelty-free makeup brands out there, we are just documenting our favourite ones). I even added my favourite product from each brand below for you to try!
 
-![_config.yml]({{ site.baseurl }}/images/56470fbc04954ebfb386f4a0048e8346)
+![_config.yml]({{ site.baseurl }}/images/56470fbc04954ebfb386f4a0048e8346.webp)
 
 **MID TO HIGH-END BRANDS**
 
