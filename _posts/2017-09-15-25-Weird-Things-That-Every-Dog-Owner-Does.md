@@ -17,7 +17,7 @@ Today on the blog we’re talking about 25 weird things that every dog owner doe
 
 5.  Conduct a professional photo shoot of your dog every time they fall asleep
 
-![_config.yml]({{ site.baseurl }}/images/dog photo shoot)
+![_config.yml]({{ site.baseurl }}/images/dog photo shoot.jpg)
 
 6.  Point and say “that’s you” when your dog walks past a mirror
 
@@ -33,7 +33,7 @@ Today on the blog we’re talking about 25 weird things that every dog owner doe
 
 12.  Say “you’re nakey” every time you take their collar off
 
-![_config.yml]({{ site.baseurl }}/images/Untitled)
+![_config.yml]({{ site.baseurl }}/images/Untitled.jpg)
 
 13.  Say “bless you” when they sneeze
 
@@ -57,7 +57,7 @@ Today on the blog we’re talking about 25 weird things that every dog owner doe
 
 23.  Throw a Birthday party for your dog (and obviously make it BYOD - Bring Your Own Dog)
 
-![_config.yml]({{ site.baseurl }}/images/dog birthday)
+![_config.yml]({{ site.baseurl }}/images/dog birthday.jpg)
 
 24.  Call your dog by terms of endearment like ‘honey, baby cakes, sugar plum, beefcake’
 
