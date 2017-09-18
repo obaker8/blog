@@ -32,7 +32,6 @@ Today on the blog we’re talking about 25 weird things that every dog owner doe
 11.  Feel offended if no one makes a fuss over your dog when you’re out in public with them
 
 12.  Say “you’re nakey” every time you take their collar off
-
 ![_config.yml]({{ site.baseurl }}/images/Untitled.jpg)
 
 13.  Say “bless you” when they sneeze
