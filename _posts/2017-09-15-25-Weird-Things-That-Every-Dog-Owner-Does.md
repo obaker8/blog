@@ -5,7 +5,7 @@ title: "25 Weird Things That Every Dog Owner Does"
 date: 2017-09-15
 ---
 
-Today on the blog we’re talking about 25 weird things that every dog owner does, so therefore it is not weird….
+Today on the blog we’re talking about 25 weird things that every dog owner does, so therefore it is not weird...
 
 1. Constantly come up with better and better nicknames for your Dog (ie. Dog’s original name: Bear, Dog’s eventually nickname: Hairy Beary, the Mayor of Beartown, USA).
 
@@ -19,13 +19,13 @@ Today on the blog we’re talking about 25 weird things that every dog owner doe
 
     ![_config.yml]({{ site.baseurl }}/images/dog photo shoot.jpg)
 
-6. Point and say “that’s you” when your dog walks past a mirror
+6.  Point and say “that’s you” when your dog walks past a mirror
 
-7. Hold your dog’s paw when you’re snuggling and tell everyone that you’re holding hands
+7.  Hold your dog’s paw when you’re snuggling and tell everyone that you’re holding hands
 
-8. Stare at your dog and wonder what they’re thinking
+8.  Stare at your dog and wonder what they’re thinking
 
-9. …and why they’re so gosh darn cute
+9.  …and why they’re so gosh darn cute
 
 10. …and if they know how loved they are
 
@@ -45,7 +45,7 @@ Today on the blog we’re talking about 25 weird things that every dog owner doe
 
 17. Think that your dog is going to be best friends with every other dog of the same breed
 
-18. Avoiding getting up to do something if your dog is snuggled into you
+18. Avoid getting up to do something if your dog is snuggled into you
 
 19. Sleep with half your body off the bed to avoid having to disrupt your dog
 
@@ -61,6 +61,6 @@ Today on the blog we’re talking about 25 weird things that every dog owner doe
 
 24. Call your dog by terms of endearment like ‘honey, baby cakes, sugar plum, beefcake’
 
-25. And talk to them in a baby voice that you’d be embarrassed
+25. And talk to them in a baby voice that you’d be embarrassed of 
 
 We'd love to hear your stories. Are there anymore weird things that you do with your dog? There is no shame here! 
