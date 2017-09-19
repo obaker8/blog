@@ -1,11 +1,11 @@
 ---
 layout: post
 comments: true
-title: "25 Weird Things That Every Dog Owner Does"
+title: "25 Weird Things That Every Dog Parent Does"
 date: 2017-09-15
 ---
 
-Today on the blog we’re talking about 25 weird things that every dog owner does, so therefore it is not weird...
+Today on the blog we’re talking about 25 weird things that every dog parent does, so therefore it is not weird...
 
 1. Constantly come up with better and better nicknames for your Dog (ie. Dog’s original name: Bear, Dog’s eventually nickname: Hairy Beary, the Mayor of Beartown, USA).
 
