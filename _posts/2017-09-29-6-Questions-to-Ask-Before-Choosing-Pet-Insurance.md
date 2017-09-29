@@ -19,7 +19,7 @@ life knowing you have a financial cushion in the case of an emergency. Emergenci
 injuries, chronic illnesses and even some routine visits. Pet Insurance is not one-size fits all. Keep in mind that vet
 insurance costs will vary based on a variety of factors like age, breed, coverage chosen or pre-existing conditions. 
 
-      ![_config.yml]({{ site.baseurl }}/images/dog blogs.jpeg)
+  ![_config.yml]({{ site.baseurl }}/images/dog blogs.jpeg)
 
 **2.	How does Pet Insurance work?**
 Majority of Pet Insurance plans work by reimbursing you for the cost of veterinary care. After paying the initial cost at your
@@ -67,7 +67,7 @@ This is the million-dollar question. How do I decide which Pet Insurance Company
 **4.	Do I need specialize coverage?**
 Sadly, according to Canine Journal, Cancer is the #1 disease-related killer among pets. Healthy Paws Pet Insurance is known to be the industry leader for insurance policy covering cancer treatments. You may also choose specialized coverage if you have a large dog breed. Large breeds often incur larger medical expenses. Trupanion Pet Insurance is known for higher premiums, but in turn offers higher payouts for those big breeds. 
 
-         ![_config.yml]({{ site.baseurl }}/images/blog dog.jpeg)
+  ![_config.yml]({{ site.baseurl }}/images/blog dog.jpeg)
 
 **5.	How do I choose the right Dog Insurance Package?**
 All this information can be overwhelming. We all want the best for our dogs, and the best for our wallets. We suggest you:
@@ -86,6 +86,6 @@ All this information can be overwhelming. We all want the best for our dogs, and
 
 We truly hope this post provides dog parents with helpful steps and guidelines to finding the best pet insurance for your dog’s need! 
 
-        ![_config.yml]({{ site.baseurl }}/images/family.jpeg)
+  ![_config.yml]({{ site.baseurl }}/images/family.jpeg)
 
 We’d love to hear from you! Please share your Pet Insurance stories below! 
