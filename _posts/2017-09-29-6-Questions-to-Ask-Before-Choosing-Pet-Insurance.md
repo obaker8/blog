@@ -6,12 +6,14 @@ date: 2017-09-29
 ---
 Just seeing the word ‘insurance’ makes us cringe. Dealing with insurance companies can be a hassle and getting your claims
 paid out can be such a nuisance. No one looks forward to calling their insurance company. And if it’s not required by law, why 
-do we need pet insurance? 
+do you need pet insurance? 
 
-Because in the blink of an eye your furry best friend could be facing a life or death situation. Emergencies and accidents
-happen. We don’t wish them upon anyone, but the truth is, insurance could save your dog’s life. We’ve done immense research on
-how you can choose the best Pet Insurance for your furbaby, to make the process as seamless as possible. Below,  we’ll go
-through the questions you should ask as you determine the best pet insurance for your family. 
+Unfortunately in the blink of an eye your furry best friend could be facing a life or death situation. Emergencies
+and accidents happen. We don’t wish them upon anyone, but the truth is, insurance could save your dog’s life. So we’ve gone
+ahead and done immense research on how you can choose the best Pet Insurance for your furbaby, to make the process as seamless
+as possible.
+
+Below,  we’ll go  through the questions you should ask as you determine the best pet insurance for your family. 
 
 **1.	Why do I need Pet Insurance?**
 Pet Insurance is you planning for the unexpected. It allows you to pay a monthly or quarterly premium so that you can live
