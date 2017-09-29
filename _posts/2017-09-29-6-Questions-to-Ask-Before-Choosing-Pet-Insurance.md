@@ -28,7 +28,7 @@ Majority of Pet Insurance plans work by reimbursing you for the cost of veterina
 vet, you will then submit a claim to your pet insurer. Claims are usually processed within a month and many pet insurers
 guarantee a certain turnaround time as an added benefit. Some Pet Insurance companies even partner with veterinary clinics and
 pay the veterinary clinics directly, so you don’t even have to open your wallet. Be sure to review different insurance policy
-details to find the one that meets your need! 
+details to find the one that meets your needs! 
 
 ![_config.yml]({{ site.baseurl }}/images/golden.jpg)
 
