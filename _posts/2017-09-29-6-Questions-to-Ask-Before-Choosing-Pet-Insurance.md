@@ -13,20 +13,20 @@ happen. We don’t wish them upon anyone, but the truth is, insurance could save
 how you can choose the best Pet Insurance for your furbaby, to make the process as seamless as possible. Below,  we’ll go
 through the questions you should ask as you determine the best pet insurance for your family. 
 
-1.	Why do I need Pet Insurance?
+**1.	Why do I need Pet Insurance?**
 Pet Insurance is you planning for the unexpected. It allows you to pay a monthly or quarterly premium so that you can live
 life knowing you have a financial cushion in the case of an emergency. Emergencies can include your dog being hit by a car,
 injuries, chronic illnesses and even some routine visits. Pet Insurance is not one-size fits all. Keep in mind that vet
 insurance costs will vary based on a variety of factors like age, breed, coverage chosen or pre-existing conditions. 
 
-2.	How does Pet Insurance work?
+**2.	How does Pet Insurance work?**
 Majority of Pet Insurance plans work by reimbursing you for the cost of veterinary care. After paying the initial cost at your
 vet, you will then submit a claim to your pet insurer. Claims are usually processed within a month and many pet insurers
 guarantee a certain turnaround time as an added benefit. Some Pet Insurance companies even partner with veterinary clinics and
 pay the veterinary clinics directly, so you don’t even have to open your wallet. Be sure to review different insurance policy
 details to find the one that meets your need! 
 
-3.	What should I consider when picking a Pet Insurance Company?
+**3.	What should I consider when picking a Pet Insurance Company?**
 This is the million-dollar question. How do I decide which Pet Insurance Company to go with? We suggest looking at: 
 
     •	Rankings and Reviews: 
@@ -62,10 +62,10 @@ This is the million-dollar question. How do I decide which Pet Insurance Company
        - If your dog is accident prone or is a breed that is more sceptical to health issues, be sure to choose
         a coverage that protects you for annual deductibles not incident deductibles
     
-4.	Do I need specialize coverage?
+**4.	Do I need specialize coverage?**
 Sadly, according to Canine Journal, Cancer is the #1 disease-related killer among pets. Healthy Paws Pet Insurance is known to be the industry leader for insurance policy covering cancer treatments. You may also choose specialized coverage if you have a large dog breed. Large breeds often incur larger medical expenses. Trupanion Pet Insurance is known for higher premiums, but in turn offers higher payouts for those big breeds. 
 
-5.	How do I choose the right Dog Insurance Package?
+**5.	How do I choose the right Dog Insurance Package?**
 All this information can be overwhelming. We all want the best for our dogs, and the best for our wallets. We suggest you:
 
        •	Narrow down your choices from our pros and cons list above
