@@ -28,6 +28,8 @@ guarantee a certain turnaround time as an added benefit. Some Pet Insurance comp
 pay the veterinary clinics directly, so you don’t even have to open your wallet. Be sure to review different insurance policy
 details to find the one that meets your need! 
 
+![_config.yml]({{ site.baseurl }}/images/golden.jpg)
+
 **3.	What should I consider when picking a Pet Insurance Company?**
 This is the million-dollar question. How do I decide which Pet Insurance Company to go with? We suggest looking at: 
 
