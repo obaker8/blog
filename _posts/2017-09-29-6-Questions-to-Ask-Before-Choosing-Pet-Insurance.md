@@ -35,7 +35,7 @@ details to find the one that meets your needs!
 **3.	What should I consider when picking a Pet Insurance Company?**
 This is the million-dollar question. How do I decide which Pet Insurance Company to go with? We suggest looking at: 
 
-•	Rankings and Reviews: 
+*•	Rankings and Reviews:*
 
    - Look at the reviews each Pet Insurance company has on Facebook and different blogs like Canine Journal 
      and Consumer Reports 
@@ -43,27 +43,27 @@ This is the million-dollar question. How do I decide which Pet Insurance Company
    - Be sure to not review the biased reports that individual Pet Insurance companies produce – they’re just 
      trying to sell you on their Insurance 
     
-•	Customer Service Experience 
+*•	Customer Service Experience*
 
    - Check that the Pet Insurer offers multiple different communication methods available so you can reach 
      a customer service representative quickly and easily 
     
-•	Claim Payment Feedback 
+*•	Claim Payment Feedback*
 
    - Different Pet Insurance Companies have different ways of reimbursing the pet parent. Review the process
      to ensure submitting claims are straightforward and what their payment timeline policy is
     
-•	Price
+*•	Price*
 
    - Price is a very important one to consider. Compare the monthly, quarterly and annual costs between a few of your top
      companies. Ensure that you are getting proper coverage at all levels
     
-•	Contract Coverage 
+*•	Contract Coverage*
 
    - You don’t want any surprises in the event of an emergency. Look through the contract in detail to ensure
      that the Insurance policy will cover everything you want it to!
     
-•	Multiple Accidents 
+*•	Multiple Accidents*
 
    - If your dog is accident prone or is a breed that is more sceptical to health issues, be sure to choose
      a coverage that protects you for annual deductibles not incident deductibles
@@ -88,7 +88,7 @@ All this information can be overwhelming. We all want the best for our dogs, and
    •	Review plan deductibles, payout percentages and guaranteed payout timelines that may impact your real out-of-pocket
         costs
 
-We truly hope this post provides dog parents with helpful steps and guidelines to finding the best pet insurance for your dog’s need! 
+***We truly hope this post provides dog parents with helpful steps and guidelines to finding the best pet insurance for your dog’s need!*** 
 
 ![_config.yml]({{ site.baseurl }}/images/family.jpeg)
 
