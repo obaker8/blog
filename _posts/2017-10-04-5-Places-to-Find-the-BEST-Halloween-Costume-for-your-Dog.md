@@ -4,7 +4,7 @@ comments: true
 title: "5 Places to Find the BEST Halloween Costume for your Dog"
 date: 2017-09-29
 ---
-**Dogtober** is here, which means it’s time to talk costumes! 
+**Dogtober** is here, which means it’s time to talk costumes for that four-legged family member of yours! 
 
 We will be announcing the rules of our doggie costume contest on Monday, so the time is now to get those creative juices flowing! We will be judging based on creativity (and cuteness of course), so don your pooch in the cutest and most creative costume for the best chance of winning some wicked prizes! 
 
