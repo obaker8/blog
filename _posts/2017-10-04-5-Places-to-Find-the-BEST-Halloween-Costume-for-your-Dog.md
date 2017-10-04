@@ -26,7 +26,7 @@ Without further ado, read on for our favourite places to find those creative Dog
 
 **4.	Target**
 
-  If you’re anything like us, you we’re heartbroken to hear that Target was shutting down in Canada. Good news though, Target still ships to Canada and they include the shipping AND international duty fees in your total payment at checkout, meaning you aren’t slammed with unexpected duty fees at time of delivery! Bless! 
+  If you’re anything like us, you were heartbroken to hear that Target was shutting down in Canada. Good news though, Target still ships to Canada and they include the shipping AND international duty fees in your total payment at checkout, meaning you aren’t slammed with unexpected duty fees at time of delivery! Bless! 
 
 **5.	At Home**
 
