@@ -18,7 +18,7 @@ Without further ado, read on for our favourite places to find those creative Dog
 
 **2.	PetSmart**
 
-  PetSmart is nice because you can order online or head into your local PetSmart to see the costumes in person. They are dog friendly, of course, so take your pooch with you to try on some costumes for fit and style! 
+  PetSmart is convenient because you can order online or head into your local PetSmart to see the costumes in person. They are dog friendly, of course, so take your pooch with you to try on some costumes for fit and style! 
 
 **3.	Party City**
 
@@ -26,7 +26,7 @@ Without further ado, read on for our favourite places to find those creative Dog
 
 **4.	Target**
 
-  If you’re anything like us, you were heartbroken to hear that Target was shutting down in Canada. Good news though, Target still ships to Canada and they include the shipping AND international duty fees in your total payment at checkout, meaning you aren’t slammed with unexpected duty fees at time of delivery! Bless! 
+  If you’re anything like us, you were heartbroken to hear that Target was shutting down in Canada. Good news though, Target still ships to Canada and they include the shipping AND international duty fees in your total payment at checkout, meaning you aren’t slammed with unexpected duty fees at time of delivery! Bless! So add Target.com to your list of options. 
 
 **5.	At Home**
 
@@ -35,4 +35,5 @@ Without further ado, read on for our favourite places to find those creative Dog
 Did we miss any of your favourite places to find creative dog costumes? We can’t wait to see all the cute little doggos rocking the cutest little costumes! 
 
 xx
+
 The Furevery Team 
