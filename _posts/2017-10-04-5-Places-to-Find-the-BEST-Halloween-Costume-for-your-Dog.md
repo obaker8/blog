@@ -4,6 +4,9 @@ comments: true
 title: "5 Places to Find the BEST Halloween Costume for your Dog"
 date: 2017-09-29
 ---
+
+![_config.yml]({{ site.baseurl }}/images/fast food dog costume.webp)
+
 **Dogtober** is here, which means it’s time to talk costumes for that four-legged family member of yours! 
 
 We will be announcing the rules of our doggie costume contest on Monday, so the time is now to get those creative juices flowing! We will be judging based on creativity (and cuteness of course), so don your pooch in the cutest and most creative costume for the best chance of winning some wicked prizes! 
@@ -11,6 +14,8 @@ We will be announcing the rules of our doggie costume contest on Monday, so the 
 To help ensure your furbaby has the highest chance of winning, we’re listing 5 of the best places to get doggie costumes from. Many websites guarantee a before Halloween delivery, but to be safe we would encourage you to order sooner rather than later to avoid disappointment! Even if you aren’t ordering online, selection is limited in stores so… START THE CAR! 
 
 Without further ado, read on for our favourite places to find those creative Doggie Costumes: 
+
+![_config.yml]({{ site.baseurl }}/images/dog costume.jpg)
 
 **1.	Amazon**
 
@@ -23,6 +28,8 @@ Without further ado, read on for our favourite places to find those creative Dog
 **3.	Party City**
 
   Party City probably isn’t the first place you would think of for doggie costumes, but if you search dog costumes on partycity.ca the search results return 102 options! That is a huge selection. Party City often runs promos too so keep an eye out for their promo codes to save some moola! 
+  
+  ![_config.yml]({{ site.baseurl }}/images/robot dog.webp)
 
 **4.	Target**
 
