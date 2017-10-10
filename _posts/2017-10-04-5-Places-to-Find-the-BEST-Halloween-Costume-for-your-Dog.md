@@ -5,7 +5,7 @@ title: "5 Places to Find the BEST Halloween Costume for your Dog"
 date: 2017-09-29
 ---
 
-![_config.yml]({{ site.baseurl }}/images/fast food dog costume.webp)
+![_config.yml]({{ site.baseurl }}/images/dog costume.jpg)
 
 **Dogtober** is here, which means it’s time to talk costumes for that four-legged family member of yours! 
 
@@ -15,7 +15,7 @@ To help ensure your furbaby has the highest chance of winning, we’re listing 5
 
 Without further ado, read on for our favourite places to find those creative Doggie Costumes: 
 
-![_config.yml]({{ site.baseurl }}/images/dog costume.jpg)
+![_config.yml]({{ site.baseurl }}/images/fast food dog costumes.webp)
 
 **1.	Amazon**
 
