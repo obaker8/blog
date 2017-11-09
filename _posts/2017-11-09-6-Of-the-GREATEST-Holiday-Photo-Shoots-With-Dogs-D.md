@@ -25,30 +25,29 @@ To help inspire our upcoming photoshoot, and hopefully a few of yours too, we’
 photoshoots!
 
 1. A classy spin on the Holiday Postcard Picture, with a pop of red plaid: 
-![_config.yml]({{ site.baseurl }}/images/d0495a_c6622f58d15e4c33bcd783a91a2a0a20-mv2.webp)
 
-  ![_config.yml]({{ site.baseurl }}/images/plaid blanket photo.jpg
+  ![_config.yml]({{ site.baseurl }}/images/plaid blanket photo.jpg)
 
 
 2. A fun and cute red and white themed photo shoot, with some awesome props:  
 
-  ![_config.yml]({{ site.baseurl }}/images/white and red photo.jpg
+  ![_config.yml]({{ site.baseurl }}/images/white and red photo.jpg)
 
 3. When your family wants to channel their inner Mr. & Mrs. Clause plus the cutest reindeer: 
 
-  ![_config.yml]({{ site.baseurl }}/images/Santa themed photoshoot.jpg
+  ![_config.yml]({{ site.baseurl }}/images/Santa themed photoshoot.jpg)
 
 4. A great use of props: 
 
-  ![_config.yml]({{ site.baseurl }}/images/casual and themed photo.jpg
+  ![_config.yml]({{ site.baseurl }}/images/casual and themed photo.jpg)
 
 5. We just can't get enough of the plaid themed shoots:
    
-   ![_config.yml]({{ site.baseurl }}/images/plaid photoshoot.jpg
+   ![_config.yml]({{ site.baseurl }}/images/plaid photoshoot.jpg)
   
 6. We don't like to play favourites, but this one definitely takes the cake for most creative:
 
-   ![_config.yml]({{ site.baseurl }}/images/funny dog photoshoot-mv2.jpg
+   ![_config.yml]({{ site.baseurl }}/images/funny dog photoshoot-mv2.jpg)
 
 Nothing makes us happier than seeing pictures of other families spreading the Christmas cheer and posing with their furbabies.
 Comment below and share your tips, suggestions and pictures of your Christmas card photos!
