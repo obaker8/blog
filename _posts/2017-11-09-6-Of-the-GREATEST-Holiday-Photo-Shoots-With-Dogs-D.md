@@ -47,7 +47,7 @@ photoshoots!
   
 **We don't like to play favourites, but this one definitely takes the cake for most creative:
 
-   ![_config.yml]({{ site.baseurl }}/images/funny dog photoshoot-mv2.jpg)
+   ![_config.yml]({{ site.baseurl }}/images/funny dog photoshoot.jpg)
 
 Nothing makes us happier than seeing pictures of other families spreading the Christmas cheer and posing with their furbabies.
 Comment below and share your tips, suggestions and pictures of your Christmas card photos!
