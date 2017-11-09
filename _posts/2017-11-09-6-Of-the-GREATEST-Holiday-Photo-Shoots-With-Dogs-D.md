@@ -15,11 +15,12 @@ spread Holiday cheer and send out our own Christmas cards!
 
 Well, this year we are preparing ahead and getting our family photos done THIS WEEK. Yes you heard me, the first week in
 November. insert clapping emoji here. Okay, so we're tooting our own horn but it actually wasn’t too difficult to send a quick
-message to a local photographer and get something setup. The difficult thing is deciding what to wear! It is still fall here
-in Ontario, so do we dress in plaid and merge fall with Christmas, do we go all out and frolic around in Santa onesies or do
-we stay classy and wear our Sunday bests? SO MANY QUESTIONS. Of course we are including our four-legged furbaby in the
-pictures (and let’s be serious she will be the star of the show), so we also have to get her all dolled up in something matchy
-and adorable. 
+message to a local photographer and get something setup. The difficult thing is deciding what to wear! 
+
+It is still fall here in Ontario, so do we dress in plaid and merge fall with Christmas, do we go all out and frolic around in 
+Santa onesies or do we stay classy and wear our Sunday bests? SO MANY QUESTIONS. Of course we are including our four-legged 
+furbaby in the pictures (and let’s be serious she will be the star of the show), so we also have to get her all dolled up in 
+something matchy and adorable. 
 
 To help inspire our upcoming photoshoot, and hopefully a few of yours too, we’ve compiled our top 6 favourite holiday
 photoshoots!
@@ -50,7 +51,7 @@ photoshoots!
    ![_config.yml]({{ site.baseurl }}/images/funny dog photoshoot.jpg)
 
 Nothing makes us happier than seeing pictures of other families spreading the Christmas cheer and posing with their furbabies.
-Comment below and share your tips, suggestions and pictures of your Christmas card photos!
+Comment below or following us on Instagram (@fureveryapp) to share your photos!
 
 
 
