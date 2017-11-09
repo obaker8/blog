@@ -26,7 +26,7 @@ photoshoots!
 
 1. A classy spin on the Holiday Postcard Picture, with a pop of red plaid: 
 <p align="center">
-  <![_config.yml]({{ site.baseurl }}/images/plaid blanket photo.jpg)">
+  ![_config.yml]({{ site.baseurl }}/images/plaid blanket photo.jpg)
 </p>
 
 2. A fun and cute red and white themed photo shoot, with some awesome props:  
