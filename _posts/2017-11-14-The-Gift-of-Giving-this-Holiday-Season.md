@@ -5,7 +5,7 @@ title: "The Gift of Giving this Holiday Season"
 date: 2017-11-14
 ---
 
-![_config.yml]({{ site.baseurl }}/images/christmas dog.jpeg) ![_config.yml]({{ site.baseurl }}/images/christmas dogg.jpg)
+![_config.yml]({{ site.baseurl }}/images/christmas dog.jpeg)
 
 The snow is beginning to fall, coffee shops have their holiday cups and the trees are being decorated, which means the Holiday
 season is almost here. When we think of the Holiday season we think of warm apple cider, the smell of balsam fir, a warm lit
@@ -14,7 +14,7 @@ know a lot of us love the gift of giving during the Holiday season. We get joy f
 morning, and I have a feeling all the animal lovers out there would sleep peacefully knowing they’ve given a gift that has
 helped a homeless cat or dog during the holiday season. 
 
-.large {“It’s not how much we give, but how much love we put into giving” - Mother Teresa}
+.large{“It’s not how much we give, but how much love we put into giving” - Mother Teresa}
 
 Together we can help make sure that Santa visits everyone, including the four-legged creatures waiting on their forever homes
 at the shelter. Every year, the local Humane Societies releases their ‘wish lists’ of items that are needed most. Many of us
