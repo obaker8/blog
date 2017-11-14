@@ -5,7 +5,7 @@ title: "The Gift of Giving this Holiday Season"
 date: 2017-11-14
 ---
 
-![_config.yml]({{ site.baseurl }}/images/christmas dog.jpeg)
+![_config.yml]({{ site.baseurl }}/images/christmas dog.jpeg) ![_config.yml]({{ site.baseurl }}/images/christmas dogg.jpg)
 
 The snow is beginning to fall, coffee shops have their holiday cups and the trees are being decorated, which means the Holiday
 season is almost here. When we think of the Holiday season we think of warm apple cider, the smell of balsam fir, a warm lit
