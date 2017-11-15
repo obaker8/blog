@@ -5,7 +5,7 @@ title: "The Gift of Giving this Holiday Season"
 date: 2017-11-14
 ---
 
-![_config.yml]({{ site.baseurl }}/images/christmas dog.jpeg)
+![_config.yml]({{ site.baseurl }}/images/doggo christmas.jpg)
 
 The snow is beginning to fall, coffee shops have their holiday cups and the trees are being decorated, which means the Holiday
 season is almost here. When we think of the Holiday season we think of warm apple cider, the smell of balsam fir, a warm lit
@@ -21,6 +21,8 @@ at the shelter. Every year, the local Humane Societies releases their ‘wish li
 have these items laying around at home or are willing to purchase a few of these items to help spread the holiday cheer at the
 Humane Society. Take a look at the wish list below and consider making a trip to your local Humane Society this season for the
 ultimate #giftofgiving. 
+
+![_config.yml]({{ site.baseurl }}/images/xmas dog.jpg)
 
 **Wish List** 
 
