@@ -14,7 +14,10 @@ know a lot of us love the gift of giving during the Holiday season. We get joy f
 morning, and I have a feeling all the animal lovers out there would sleep peacefully knowing they’ve given a gift that has
 helped a homeless cat or dog during the holiday season. 
 
-“It’s not how much we give, but how much love we put into giving” - Mother Teresa
+<blockquote class="blockquote blockquote-center">
+  <p class="m-b-0">“It’s not how much we give, but how much love we put into giving” - Mother Teresa</p>
+  <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+</blockquote>
 
 Together we can help make sure that Santa visits everyone, including the four-legged creatures waiting on their forever homes
 at the shelter. Every year, the local Humane Societies releases their ‘wish lists’ of items that are needed most. Many of us
