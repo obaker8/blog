@@ -15,8 +15,8 @@ morning, and I have a feeling all the animal lovers out there would sleep peacef
 helped a homeless cat or dog during the holiday season. 
 
 <blockquote class="blockquote blockquote-center">
-  <p class="m-b-0">“It’s not how much we give, but how much love we put into giving” - Mother Teresa</p>
-  <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+  <p class="m-b-0">“It’s not how much we give, but how much love we put into giving”</p>
+  <footer class="blockquote-footer">-Mother Teresa <cite title="Source Title"></cite></footer>
 </blockquote>
 
 Together we can help make sure that Santa visits everyone, including the four-legged creatures waiting on their forever homes
