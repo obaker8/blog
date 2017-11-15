@@ -8,11 +8,11 @@ date: 2017-11-14
 ![_config.yml]({{ site.baseurl }}/images/doggo christmas.jpg)
 
 The snow is beginning to fall, coffee shops have their holiday cups and the trees are being decorated, which means the Holiday
-season is almost here. When we think of the Holiday season we think of warm apple cider, the smell of balsam fir, a warm lit
-fireplace and presents under the tree. It can be easy to get caught up in the hustle and bustle of the holiday season, but I
-know a lot of us love the gift of giving during the Holiday season. We get joy from watching others open presents on Christmas
-morning, and I have a feeling all the animal lovers out there would sleep peacefully knowing they’ve given a gift that has
-helped a homeless cat or dog during the holiday season. 
+Season is here! When we think of the Holiday's we tend to think of warm apple cider, the smell of balsam fir, a warm lit
+fireplace and presents under the tree. It can be easy to get caught up in the hustle and bustle of the Holiday Season, but I
+know a lot of us love the gift of giving. We get joy from watching others open presents on Christmas morning, and I have a
+feeling all the animal lovers out there would sleep peacefully knowing they’ve given a gift that has helped a homeless cat or
+dog.
 
 <blockquote class="blockquote blockquote-center">
   <p class="m-b-0">"It’s not how much we give, but how much love we put into giving”</p>
@@ -56,6 +56,8 @@ ultimate #giftofgiving.
 - Sterile Surgical Gloves
 - Surgical Masks 
 
+Are you going to be making a visit to your local Humane Society or Rescue Organization this Christmas Season? Share pictures
+with us on Instagram (@fureveryapp) or Facebook (@furevery). 
 
 
 
