@@ -20,7 +20,7 @@ dog.
 </blockquote>
 
 Together we can help make sure that Santa visits everyone, including the four-legged creatures waiting on their forever homes
-at the shelter. Every year, the local Humane Societies releases their ‘wish lists’ of items that are needed most. Many of us
+at the shelter. Every year, the local Humane Societies release their ‘wish lists’ of items that are needed most. Many of us
 have these items laying around at home or are willing to purchase a few of these items to help spread the holiday cheer at the
 Humane Society. Take a look at the wish list below and consider making a trip to your local Humane Society this season for the
 ultimate #giftofgiving. 
