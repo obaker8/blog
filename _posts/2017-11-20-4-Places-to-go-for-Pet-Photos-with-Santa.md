@@ -6,9 +6,7 @@ date: 2017-11-20
 ---
 ![_config.yml]({{ site.baseurl }}/images/pet photo with santa.jpg)
 
-Last week we wrote a post on the dog blog outlining our favourite Holiday Photos with your Dog, check it out <a 
-href="http://http://blog.furevery.com/6-Of-the-GREATEST-Holiday-Photo-Shoots-With-Dogs-D/">here</a>. While we are on the topic
-of Holiday photos, we've decided that no Holiday can be complete without taking your dog to get a photo with
+Last week we wrote a post on the dog blog outlining our favourite Holiday Photos with your Dog, if you missed it you can check it out <a href="http://http://blog.furevery.com/6-Of-the-GREATEST-Holiday-Photo-Shoots-With-Dogs-D/">here</a>. And while we are on the topic of Holiday photos, we've decided that no Holiday can be complete without taking your dog to get a photo with
 the big jolly man himself; Santa Claus! So this week we're sharing a list of businesses that are opening their doors (or
 chimneys) to Mr. Claus this year, and inviting all the nice doggos to come get their picture taken with Santa.
 
