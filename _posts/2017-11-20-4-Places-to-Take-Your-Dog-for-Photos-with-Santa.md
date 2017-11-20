@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "4 Places to go for Pet Photos with Santa"
+title: "4 Places to Take Your Dog for Photos with Santa"
 date: 2017-11-20
 ---
 ![_config.yml]({{ site.baseurl }}/images/pet photo with santa.jpg)
