@@ -19,11 +19,11 @@ shopping!
 
 Gifts for the Dog Mama
 
-![_config.yml]({{ site.baseurl }}/images/gift guide for her.jpg)
+![_config.yml]({{ site.baseurl }}/images/Gift Guide For Her.jpg)
 
 Gifts for the Dog Dad
 
-![_config.yml]({{ site.baseurl }}/images/gift guide for him.jpg)
+![_config.yml]({{ site.baseurl }}/images/Gift Guide for Him.jpg)
 
 We saved the best for last. Gifts for that special furbaby in your life
 
