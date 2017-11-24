@@ -18,12 +18,15 @@ So refill that cup of hot cocoa (with or without Baileys…we won’t judge), gi
 shopping! 
 
 Gifts for the Dog Mama
+
 ![_config.yml]({{ site.baseurl }}/images/gift guide for her.jpg)
 
 Gifts for the Dog Dad
+
 ![_config.yml]({{ site.baseurl }}/images/gift guide for him.jpg)
 
 We saved the best for last. Gifts for that special furbaby in your life
+
 ![_config.yml]({{ site.baseurl }}/images/gift guide for dog.jpg)
 
 
