@@ -18,7 +18,7 @@ So refill that cup of hot cocoa (with or without Baileys…we won’t judge), gi
 shopping! 
 
 **Gifts for the Dog Mama**
-![_config.yml]({{ site.baseurl }}/images/Gift Guide For Her.jpg)
+![_config.yml]({{ site.baseurl }}/images/Gift Guide for Her.jpg)
 1. <a href="http://www.puptowngirlbox.com/">Puptown Girl Box</a>
 2. <a href="https://www.etsy.com/ca/listing/476134800/stay-home-with-my-dog-cute-boot-socks?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dog%20mom&ref=sr_gallery_13">Socks</a>
 3. <a href="https://www.etsy.com/ca/listing/482942656/dog-mama-mug-dog-lovers-mug-crazy-dog?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dog%20mom&ref=sr_gallery_24">Dog Mom Mug</a>
