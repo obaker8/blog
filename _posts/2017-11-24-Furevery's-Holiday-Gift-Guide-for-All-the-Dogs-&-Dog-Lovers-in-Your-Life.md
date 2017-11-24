@@ -42,6 +42,14 @@ shopping!
 **We saved the best for last. Gifts for that special furbaby in your life**
 
 ![_config.yml]({{ site.baseurl }}/images/gift guide for dog.jpg)
-
+1. <a href="https://www.etsy.com/ca/listing/479336473/red-black-tartan-tartan-dog-collar?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dog%20collar&ref=sr_gallery_19">Bow Tie Collar</a>
+2. <a href="https://woofpacks.ca/">A monthly subscription to Woofpacks.ca</a>
+3. <a href="https://www.kongcompany.com/">Classic Kong Toy</a>
+4. <a href="https://www.homesalive.ca/brands/puppy-love.html">Puppy Love Treats</a>
+5. <a href="http://www.howlandhome.ca/product/new-painted-edge-dog-bowl-stand-set-double-tall">Dog Bowl Stand</a>
+6. <a href="https://www.amazon.com/GRDE-Zoomable-Headlamp-Rechargeable-Batteries/dp/B00NIOCZIK/ref=zg_bs_3180291_2?_encoding=UTF8&psc=1&refRID=5P56E7XJEK6K7EH2QJYF">Headlight</a>
+7. <a href="https://www.etsy.com/ca/listing/515940192/pet-teepee-tent-in-black-and-white?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dog%20teepee&ref=sr_gallery_3"> Dog Teepee</a>
+8. <a href="https://www.homesalive.ca/brands/chuckit/chuckit-large-ball-launcher-sport-26-424.html">Chuck It Ball Launcher</a>
+9. <a href="https://www.etsy.com/ca/listing/254052105/personalized-dog-stocking-dog-christmas?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dog%20stocking&ref=sr_gallery_21">Personal Dog Stocking</a>
 
 
