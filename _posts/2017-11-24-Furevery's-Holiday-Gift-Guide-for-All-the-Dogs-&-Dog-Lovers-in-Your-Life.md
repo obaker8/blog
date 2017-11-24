@@ -25,7 +25,7 @@ shopping!
 4. <a href="https://www.etsy.com/ca/listing/482942656/dog-mama-mug-dog-lovers-mug-crazy-dog?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dog%20mom&ref=sr_gallery_24">Dog Mom Mug</a>
 5. <a href="http://rescuedwinecandles.com/">Rescued Wine Candle</a>
 6. <a href="https://www.armtheanimals.com/products/womens-dog-walking-shirt-oversized-tee">Dog Walking Shirt</a>
-7.<a href="https://www.etsy.com/ca/listing/555053790/tie-up-headband-top-knot-headband-red?">Matching Hair Tie & Collar</a>
+7. <a href="https://www.etsy.com/ca/listing/555053790/tie-up-headband-top-knot-headband-red?">Matching Hair Tie & Collar</a>
 8. <a href="https://www.etsy.com/ca/listing/564552013/weekends-coffee-and-dogs-sweatshirt
 ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dog%20sweatshirt&ref=sr_gallery_4">Weekend,
 Coffee & Dog Sweater</a>
@@ -37,7 +37,7 @@ Coffee & Dog Sweater</a>
 3. <a href="https://popyourpup.com/">Custom Pet Portrait</a>
 4. <a href="https://www.etsy.com/ca/listing/572684309/dog-dad-coffee-mug-best-dog-dad-ever?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dog%20dad%20mug&ref=sr_gallery_7">Best Dog Dad Ever Mug</a>
 5. <a href="https://www.amazon.com/The-Big-Yorker-Book-Dogs/dp/067964475X/ref=as_sl_pc_ss_til?tag=1988-bg-in-ny-20&linkCode=w01&linkId=&creativeASIN=067964475X">The New Yorker Book of Dogs</a>
-6. <a href="http://www.canadacufflinks.ca/Dog-Cufflinks.html"> Dog Cufflinks</a>
+6. <a href="http://www.canadacufflinks.ca/Dog-Cufflinks.html">Dog Cufflinks</a>
 7. <a href="https://www.amazon.com/GRDE-Zoomable-Headlamp-Rechargeable-Batteries/dp/B00NIOCZIK/ref=zg_bs_3180291_2?_encoding=UTF8&psc=1&refRID=5P56E7XJEK6K7EH2QJYF">Headlight</a>
 8. <a href="https://petcube.com/en-ca/">Petcube: The Dog Nanny</a>
 
