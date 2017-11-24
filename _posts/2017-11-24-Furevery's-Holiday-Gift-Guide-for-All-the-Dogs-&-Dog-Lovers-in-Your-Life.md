@@ -25,6 +25,7 @@ shopping!
 4. <a href="https://www.etsy.com/ca/listing/482942656/dog-mama-mug-dog-lovers-mug-crazy-dog?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dog%20mom&ref=sr_gallery_24">Dog Mom Mug</a>
 5. <a href="http://rescuedwinecandles.com/">Rescued Wine Candle</a>
 6. <a href="https://www.armtheanimals.com/products/womens-dog-walking-shirt-oversized-tee">Dog Walking Shirt</a>
+
 7.<a href="https://www.etsy.com/ca/listing/555053790/tie-up-headband-top-knot-headband-red?">Matching Hair Tie & Collar</a>
 8. <a href="https://www.etsy.com/ca/listing/564552013/weekends-coffee-and-dogs-sweatshirt?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dog%20sweatshirt&ref=sr_gallery_4">Weekend, Coffee & Dog Sweater</a>
 
