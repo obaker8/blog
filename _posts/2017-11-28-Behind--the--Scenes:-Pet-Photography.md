@@ -5,6 +5,8 @@ title: "Behind-the-Scenes: Pet Photography"
 date: 2017-11-28
 ---
 
+<img src="IMG_3079 2.jpg" width="200" height="200" class="rotateimg180">
+
 ![_config.yml]({{ site.baseurl }}/images/IMG_3079 2.jpg)
 
 *<i>This is our first post of the 'Behind-the-Scenes' blog post series. We are going behind-the-scenes with a business in the dog industry ONCE A MONTH. So stay tuned for more posts as we get down and dirty with various businesses serving our pups</i>
