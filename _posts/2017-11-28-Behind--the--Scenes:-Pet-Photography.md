@@ -19,10 +19,9 @@ Once the dog has warmed up to the space, Stephen begins with raw photos of the d
 
 ![_config.yml]({{ site.baseurl }}/images/Screen Shot 2017-11-29 at 10.02.36 AM.png)
 
-![_config.yml]({{ site.baseurl }}/images/edgarandpooch.jpg)**The Edgar and Pooch Studio** is located in Kitchener, ON. Holiday packages start at $140, and gift certificates are avaialble. 
-
+![_config.yml]({{ site.baseurl }}/images/edgarandpooch.jpg)
+**The Edgar and Pooch Studio** is located in Kitchener, ON. Holiday packages start at $140, and gift certificates are avaialble. 
    **Instagram:** https://www.instagram.com/edgarandpooch/?hl=en
-    
    **Website:** http://www.stephenedgar.ca/edgarandpooch/
 
 
