@@ -17,6 +17,8 @@ We went behind-the-scenes to see him work his magic with local Instagram dog inf
 
 Once the dog has warmed up to the space, Stephen begins with raw photos of the dog to get the dog used to the flashing lights. Then the dog parent and Stephen collaborate on which props or outfits to incorporate into various shots. Stephen's energy in his studio relaxes the dog. You will hear Stephen mutter "beautiful", "gorgeous", "good girl", "Look over here", "amazing", "so pretty"...throughout the session. Janie responded so well to this words of encouragement. Once and a while Stephen will squeak a toy or ask the parent to reward the dog with treats. His sessions run for about 45 minutes, or until the dog loses focus. Stephen is always focused on ensuring the dog is happy and stress-free!
 
+These portraits will excert your dog's personality! 
+
 ![_config.yml]({{ site.baseurl }}/images/Screen Shot 2017-11-29 at 10.02.36 AM.png)
 
 ![_config.yml]({{ site.baseurl }}/images/edgarandpooch.jpg)
