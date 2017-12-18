@@ -17,7 +17,8 @@ HOW TO ENTER
 3. Download the Furevery App on iOS or Android
 4. Tag two friends on our Holiday Photo Contest pic (posted to Instagram on Dec 1st)
 5. Enter by Dec 23rd at Midnight (winner will be announced Christmas Eve Day)
-**multiple picture submissions are allowed & encouraged!**
+
+*multiple picture submissions are allowed & encouraged!
 
 We love running contests and spreading the spirit of giving, that is synonymous with this wonderful season. Thank you in advance for playing along & may the most festive doggie pictures win! 
 
