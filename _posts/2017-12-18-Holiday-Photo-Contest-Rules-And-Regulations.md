@@ -4,7 +4,7 @@ comments: true
 title: "Holiday Photo Contest Rules & Regulations"
 date: 2017-11-28
 ---
-![_config.yml]({{ site.baseurl }}/images/IMG_3219.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_3219.JPG)
 
 COSTUME CONTEST
 
