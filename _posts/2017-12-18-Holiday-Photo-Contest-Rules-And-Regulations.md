@@ -5,6 +5,7 @@ title: "Holiday Photo Contest Rules & Regulations"
 date: 2017-11-28
 ---
 ![_config.yml]({{ site.baseurl }}/images/IMG_3219.jpg)
+
 COSTUME CONTEST
 
 The most wonderful time of the year is upon us! It 'tis the time for giving, and we have some gifts to give to a few lucky doggies. Warm nights by the fire, rocking Christmas hats, frolicking in the snow and photos with Santa. These are just a few of the pics we want to see from you! Show us how you and your pooch celebrate the holiday season by uploading and hashtagging #FureveryHoliday2017 on all your pics to be entered into our Holiday Photo Contest (running now on Instagram)! The contest is running until December 23rd, so you still have time to enter. 
