@@ -42,6 +42,8 @@ This one is probably the most difficult resolution to keep up, because it depend
 
 Over the past year, I've focused a lot of my attention on being more mindful, and living in the moment. And one of the biggest helps towards that goal has been spending unstructured time with my dog. Dogs don't worry about the future. They don't have bad commutes or arguments with baristas over too-foamy lattes. For the most part, they just want love and attention, and I find when I focus on that, it typically melts the stress right away. Rubbing Clara's dog belly for half an hour doesn't make me more productive, and it doesn't take away any of the workload of tomorrow's big presentation, but it does help me focus on living in the moment, and just being present. Clara likes it too - belly rubs are her favourite thing in the world.
 
+![_config.yml]({{ site.baseurl }}/images/pug-sleeping-in_4460x4460.jpg)
+
 <hr>
 
 There's a reason many Universities and even some offices are bringing in therapy dogs as a stress relief tool. Interacting with a dog is an easy way to put a smile on your face, and make your pet feel appreciated and loved. So when you're feeling like you're at your wits end, and about to break that last new years resolution, ask yourself, what would my dog do? Then do just that - lay down on the couch, call over your pooch, and just lean into the cuddle. 
