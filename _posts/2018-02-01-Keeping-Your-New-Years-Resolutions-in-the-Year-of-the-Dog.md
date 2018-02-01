@@ -14,6 +14,8 @@ Having a dog can have a huge positive impact on your emotional state - we'll get
 
 For one, I feel better knowing that I'm moving more. In the winter, when the temperature drops below -20 C here in Ontario, it can be tough to find motivation to even get off the couch, let alone get outside and be active. While we cut back Clara's walks depending on how cold it is outside, we've never deviated from our schedule. Three walks per day, every day. As a result of this schedule we discovered that Clara really didn't have much of an upper limit on walks, so in the summer when we take her camping, 10 km hikes don't phase her. She's made us more active, and I like to think we've helped keep her happy, stimulated, and healthy. If your resolution is to get outside more, start with adding an extra dog walk to your day - you won't regret it, and hearing your dog snoring away after a nice long workout makes it all the more worthwhile.
 
+![_config.yml]({{ site.baseurl }}/images/StockSnap_JORPZ5WHCR.jpg)
+
 **This Year I'm Going to Meet New People!**
 
 I've always been a bit of a social butterfly, but moving to a new town or making lifestyle changes can make meeting new people difficult, even for someone like myself. But there's one topic I can talk about for days - my dog. And you know who typically likes talking about dogs? Fellow dog owners! It's why you're reading this post, right?
@@ -23,6 +25,8 @@ When my wife and I started taking our dog to the off-leash park, we quickly disc
 If you're not the type of person who strikes up a conversation with random people at the park, there are plenty of options for more structured hangout time. Meetup.com is a great place to find local dog walking groups, and you may even find something breed-specific so you can wax poetic about wienerdogs, or band together about bulldogs. Some dog rescues like The Dog Haus even run scheduled group walks that are open to anyone. I've attended a few “Mediation Walks”, and the structured, calm socialization time was great for Clara to learn some more appropriate leash behaviour.
 
 No matter how you approach it, dog owners tend to love talking about their dogs. If you're just as obsessed with talking about your dog, take a chance and go surround yourself with fellow dog fanatics. Even if you don't meet any new friends, chances are your dog will!
+
+![_config.yml]({{ site.baseurl }}/images/StockSnap_1A52V0Y1UY.jpg)
 
 **This Year I'm Going to Save More Money!**
 
