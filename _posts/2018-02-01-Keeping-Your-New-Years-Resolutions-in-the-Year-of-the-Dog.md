@@ -34,6 +34,8 @@ If having a pooch is a great way to get out more and meet new people, there's al
 
 Once summer rolls around, the same rules apply. Beers at a bar, or pet-friendly BBQ in the back yard with some friends? Clara is great with other people and kids, so when we have friends over she's always the life of the party. The older I get, the less I feel like dropping a hundred dollars on a night out, so whether it's laziness or thriftiness I'm always up for a night in catching up on naps with my dog. And the less money I spend going out, the more money I'm putting in the bank for a rainy day.
 
+![_config.yml]({{ site.baseurl }}/images/pete-bellis-115355.jpg)
+
 **This Year I'm Going to Relax More!**
 
 This one is probably the most difficult resolution to keep up, because it depends on so many external factors. A bad day at work is usually all it takes to throw any signs of calm relaxation right out the window. Doubly so if you're stuck in traffic on the way home. But, studies have shown that dogs can dramatically lower stress levels, and even help lower your blood pressure.
