@@ -1,12 +1,12 @@
 ---
 layout: post
 comments: true
-title: "Keeping Your New Years Resolutions in the Year of the Dog"
+title: "Keeping Your New Year's Resolutions in the Year of the Dog"
 date: 2018-02-01
 ---
 ![_config.yml]({{ site.baseurl }}/images/year of the dog.jpg)
 
-<i>2018 is already shaping up to be one of my favourite years. According to the 12-year cycle of the Chinese zodiac, it's the Year of the Dog. And that's definitely a year I can get behind. But what about your new year’s resolutions? Did you vow to become more active? Finally quit smoking, or take up rugby? While not every new years resolution has a four-legged solution, your dog can play a big role in helping you form new, positive habits. Here's how:</i>
+<i>2018 is already shaping up to be one of my favourite years. According to the 12-year cycle of the Chinese zodiac, it's the Year of the Dog. And that's definitely a year I can get behind. But what about your new year’s resolutions? Did you vow to become more active? Finally quit smoking, or take up rugby? While not every new year's resolution has a four-legged solution, your dog can play a big role in helping you form new, positive habits. Here's how:</i>
 
 **This Year I'm Going to Be More Active!**
 
@@ -47,3 +47,5 @@ Over the past year, I've focused a lot of my attention on being more mindful, an
 <hr>
 
 There's a reason many Universities and even some offices are bringing in therapy dogs as a stress relief tool. Interacting with a dog is an easy way to put a smile on your face, and make your pet feel appreciated and loved. So when you're feeling like you're at your wits end, and about to break that last new years resolution, ask yourself, what would my dog do? Then do just that - lay down on the couch, call over your pooch, and just lean into the cuddle. 
+
+This post was written by our guest blogger and fellow dog lover Jon Spenceley. Comment below to let him know how your dog is helping you with your New Year's Resolutions. 
