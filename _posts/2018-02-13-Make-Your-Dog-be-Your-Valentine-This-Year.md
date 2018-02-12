@@ -10,14 +10,20 @@ If you so choose to follow our paw steps in celebrating ‘Palentine’s Day’ 
 
 **1. Enjoy a candlelit dinner together**
 ![_config.yml]({{ site.baseurl }}/images/dinner.jpg)
+
 **2. Bake Valentine’s Cookies** 
+![_config.yml]({{ site.baseurl }}/images/cookies.jpg)
+
 **3. Watch your favourite movie together**
 ![_config.yml]({{ site.baseurl }}/images/movie.jpg)
+
 **4. Go to a dog-friendly social event** 
 ![_config.yml]({{ site.baseurl }}/images/dog park.jpg)
+
 **5. Gift them a few of their favourite things** 
 ![_config.yml]({{ site.baseurl }}/images/vday gifts.jpg)
-**6. Go on an extra long trail walk** 
 
+**6. Go on an extra long trail walk** 
+![_config.yml]({{ site.baseurl }}/image/trail walk.jpg)
 
 
