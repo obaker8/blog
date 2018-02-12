@@ -24,6 +24,6 @@ If you so choose to follow our paw steps in celebrating ‘Palentine’s Day’ 
 ![_config.yml]({{ site.baseurl }}/images/vday gifts.jpg)
 
 **6. Go on an extra long trail walk** 
-![_config.yml]({{ site.baseurl }}/image/trail walk.jpg)
+![_config.yml]({{ site.baseurl }}/images/trail walk.jpg)
 
 
