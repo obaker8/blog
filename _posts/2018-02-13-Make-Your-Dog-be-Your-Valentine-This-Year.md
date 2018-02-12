@@ -9,11 +9,15 @@ We’ve all heard the phrase "I like dogs more than I like most people”, right
 If you so choose to follow our paw steps in celebrating ‘Palentine’s Day’ this year, here at 6 ways to celebrate your Dog being your Valentine: 
 
 **1. Enjoy a candlelit dinner together**
-![_config.yml]({{ site.baseurl }}/images/year of the dog.jpg)
-**2. Bake Valentine’s Cookies** insert a cute dog cookie recipe 
-**3. Watch your favourite movie together** - 101 Dalmatians? 
-**4. Go to a dog-friendly social event** - Dog park with friends or valentine’s pictures  
-**5. Gift them a few of their favourite things** - Barkbox toys and treats 
+![_config.yml]({{ site.baseurl }}/images/dinner.jpg)
+**2. Bake Valentine’s Cookies** 
+**3. Watch your favourite movie together**
+![_config.yml]({{ site.baseurl }}/images/movie.jpg)
+**4. Go to a dog-friendly social event** 
+![_config.yml]({{ site.baseurl }}/images/dog park.jpg)
+**5. Gift them a few of their favourite things** 
+![_config.yml]({{ site.baseurl }}/images/vday gifts.jpg)
 **6. Go on an extra long trail walk** 
+
 
 
