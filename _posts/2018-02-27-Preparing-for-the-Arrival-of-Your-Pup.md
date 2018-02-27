@@ -15,6 +15,7 @@ date: 2018-02-27
 
 ![_config.yml]({{ site.baseurl }}/images/vetblog.jpg)
 
+
 **PUP-PROOF YOUR HOME**
 <br>Coming home to a new environment is a big deal for your furry friend. Each dog reacts differently to new surroundings so it’s important to take extra precautions to ensure their safety! Some things you can do to keep your pup safe include:
 
@@ -24,6 +25,7 @@ date: 2018-02-27
 4. Checking your kitchen for items that are poisonous to dogs such as chocolate and coffee, and making sure they are out of reach. (We would jump for chocolate, so would your pup!)
 
 ![_config.yml]({{ site.baseurl }}/images/stopdogfromchewing.jpg)
+
 
 **CHOOSE A FOOD THAT IS SUITED FOR YOUR NEW FRIEND**
 <br>Food is essential for your new pup as it gives them energy and helps them grow! Not every food is suited for every dog, so it’s important to get one that’s best for yours! By researching the breed of your canine companion, this will say a lot about their typical diet restrictions and ingredients to stay away from. Also keeping in mind that many dog foods use fillers and lack the nutrition your pup needs. By reading the ingredients label on the package, this can help you be confident with the food you’re buying! Some ingredients to stay away from are:
@@ -41,20 +43,32 @@ By staying away from these ingredients it’ll benefit your dogs short and long 
 
 ![_config.yml]({{ site.baseurl }}/images/foodblog.jpg)
 
+
 **CREATE A WELCOMING ENVIRONMENT**
 <br>It is important not to overwhelm your pup upon arrival to their new home. Introduce them to only family within the household within the first couple days, and gradually more people with time. You can create a welcoming environment by purchasing toys for your pup to play with, as well as a leash and collar. Your new friend may be sleepy the first week within their new home, so a nice comfy bed is also recommended!
 
 ![_config.yml]({{ site.baseurl }}/images/sleepypup.jpg)
+
 
 **GATHER AS MUCH INFO ABOUT YOUR PUP AS YOU CAN**
 <br>If you are adopting from a shelter, it can be hard to keep track of your dog’s previous vet records. It’s important to try to obtain any information from the people you are adopting from to find out what vaccines your pup has already received. When you have received the records, it’s a good idea to keep them in a folder or safe place to ensure you won’t lose them!
 
 ![_config.yml]({{ site.baseurl }}/images/puplove.jpg)
 
+
 **OPEN YOUR HEART TO UNCONDITIONAL LOVE**
 <br>The last thing to remember before bringing your new friend home, is to open your heart to the love and happiness a dog brings! Get ready for endless love and unlimited cuddles!
 
 ![_config.yml]({{ site.baseurl }}/images/cuddles.png)
+
+
+<hr> 
+
+![_config.yml]({{ site.baseurl }}/images/alexispicture.jpg) 
+<i> writtten by </i> Alexis Toza
+Alexis is the Marketing Coordinator at Furevery, where she helps dog parents raise happy, healthy dogs. When she's not writing or creating creative content for Furevery, you can find her at the gym or drinking a glass of wine on the couch with her pup!
+
+
 
 
 
