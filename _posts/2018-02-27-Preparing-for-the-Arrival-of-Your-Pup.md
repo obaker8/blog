@@ -49,12 +49,12 @@ By staying away from these ingredients it’ll benefit your dogs short and long 
 **GATHER AS MUCH INFO ABOUT YOUR PUP AS YOU CAN**
 <br>If you are adopting from a shelter, it can be hard to keep track of your dog’s previous vet records. It’s important to try to obtain any information from the people you are adopting from to find out what vaccines your pup has already received. When you have received the records, it’s a good idea to keep them in a folder or safe place to ensure you won’t lose them!
 
-![_config.yml]({{ site.baseurl }}/images/puppylove.jpg)
+![_config.yml]({{ site.baseurl }}/images/puplove.jpg)
 
 **OPEN YOUR HEART TO UNCONDITIONAL LOVE**
 <br>The last thing to remember before bringing your new friend home, is to open your heart to the love and happiness a dog brings! Get ready for endless love and unlimited cuddles!
 
-![_config.yml]({{ site.baseurl }}/images/cuddlepup.jpg)
+![_config.yml]({{ site.baseurl }}/images/cuddles.png)
 
 
 
