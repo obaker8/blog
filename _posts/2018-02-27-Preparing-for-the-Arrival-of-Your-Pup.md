@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Preparing for the Arrival of your Pup"
-date: 2017-02-27
+date: 2018-02-27
 ---
 
 <i> Bringing a new canine companion into your home is a big deal! There’s a lot to remember which can be overwhelming,  this why we’ve created a list of ways to prepare for your pups arrival! </i>
