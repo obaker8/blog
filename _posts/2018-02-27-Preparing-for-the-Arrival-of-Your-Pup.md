@@ -7,11 +7,13 @@ date: 2018-02-27
 
 <i> Bringing a new canine companion into your home is a big deal! There’s a lot to remember which can be overwhelming,  this why we’ve created a list of ways to prepare for your pups arrival! </i>
 
+![_config.yml]({{ site.baseurl }}/images/carpet-810x539.jpg)
+
 **FIND A VETERINARIAN FOR YOUR PUP**
 <br>What’s better than a new dog in the house? A healthy one! Search for a local vet to ensure your pup is receiving all of the necessary vaccines and check-ups. Sometimes things don’t always go according to plan, so it is also important to note any 24 hour emergency animal hospitals nearby.
 <br>**PS. By using Furevery you can search for vets and animal hospitals within your area!**
 
-![_config.yml]({{ site.baseurl }}/images/VET 2 BLOG.JPG)
+![_config.yml]({{ site.baseurl }}/images/VET 2 BLOG.jpg)
 
 **PUP-PROOF YOUR HOME**
 <br>Coming home to a new environment is a big deal for your furry friend. Each dog reacts differently to new surroundings so it’s important to take extra precautions to ensure their safety! Some things you can do to keep your pup safe include:
@@ -21,7 +23,7 @@ date: 2018-02-27
 3. Making sure any shoes or other materials are up high or in a room not accessible to your pup!
 4. Checking your kitchen for items that are poisonous to dogs such as chocolate and coffee, and making sure they are out of reach. (We would jump for chocolate, so would your pup!)
 
-![_config.yml]({{ site.baseurl }}/images/Stop-A-Dog-From-Chewing-Electrical-Cords.JPG)
+![_config.yml]({{ site.baseurl }}/images/Stop-A-Dog-From-Chewing-Electrical-Cords.jpg
 
 **CHOOSE A FOOD THAT IS SUITED FOR YOUR NEW FRIEND**
 <br>Food is essential for your new pup as it gives them energy and helps them grow! Not every food is suited for every dog, so it’s important to get one that’s best for yours! By researching the breed of your canine companion, this will say a lot about their typical diet restrictions and ingredients to stay away from. Also keeping in mind that many dog foods use fillers and lack the nutrition your pup needs. By reading the ingredients label on the package, this can help you be confident with the food you’re buying! Some ingredients to stay away from are:
