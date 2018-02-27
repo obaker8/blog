@@ -68,7 +68,7 @@ By staying away from these ingredients it’ll benefit your dogs short and long 
 <img src="alexispicture.jpg" alt="alexistoza" height="42" width="42">
 
 <i> writtten by </i> Alexis Toza
-Alexis is the Marketing Coordinator at Furevery, where she helps dog parents raise happy, healthy dogs. When she's not writing or creating creative content for Furevery, you can find her at the gym or relaxing drinking a glass of wine!
+<br>Alexis is the Marketing Coordinator at Furevery, where she helps dog parents raise happy, healthy dogs. When she's not writing or creating creative content for Furevery, you can find her at the gym or relaxing drinking a glass of wine!
 
 
 
