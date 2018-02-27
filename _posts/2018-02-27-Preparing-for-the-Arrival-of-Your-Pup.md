@@ -7,7 +7,7 @@ date: 2018-02-27
 
 <i> Bringing a new canine companion into your home is a big deal! There’s a lot to remember which can be overwhelming,  this why we’ve created a list of ways to prepare for your pups arrival! </i>
 
-![_config.yml]({{ site.baseurl }}/images/carpet-810x539.jpg)
+![_config.yml]({{ site.baseurl }}/images/welcomehome.jpg)
 
 **FIND A VETERINARIAN FOR YOUR PUP**
 <br>What’s better than a new dog in the house? A healthy one! Search for a local vet to ensure your pup is receiving all of the necessary vaccines and check-ups. Sometimes things don’t always go according to plan, so it is also important to note any 24 hour emergency animal hospitals nearby.
