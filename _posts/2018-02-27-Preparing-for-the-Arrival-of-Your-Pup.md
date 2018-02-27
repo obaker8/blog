@@ -10,7 +10,8 @@ date: 2018-02-27
 **FIND A VETERINARIAN FOR YOUR PUP**
 <br>What’s better than a new dog in the house? A healthy one! Search for a local vet to ensure your pup is receiving all of the necessary vaccines and check-ups. Sometimes things don’t always go according to plan, so it is also important to note any 24 hour emergency animal hospitals nearby.</br>
 **PS. By using Furevery you can search for vets and animal hospitals within your area!**
-![_config.yml]({{ site.baseurl }}/images/VET 2 BLOG.webp/JPG)
+
+![_config.yml]({{ site.baseurl }}/images/VET 2 BLOG.JPG)
 
 **PUP-PROOF YOUR HOME**
 <br>Coming home to a new environment is a big deal for your furry friend. Each dog reacts differently to new surroundings so it’s important to take extra precautions to ensure their safety! Some things you can do to keep your pup safe include:</br>
