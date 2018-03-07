@@ -40,6 +40,6 @@ You can also search for:
 
 ![_config.yml]({{ site.baseurl }}/images/familyphoto.jpeg)
 
-<br>With the wide selection of services on Furevery, you can spend less time searching for these services/businesses and spend more quality time with your pup! 
+With the wide selection of services on Furevery, you can spend less time searching for these services/businesses and spend more quality time with your pup! 
 
 
