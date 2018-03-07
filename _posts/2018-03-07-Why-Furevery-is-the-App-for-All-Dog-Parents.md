@@ -15,19 +15,15 @@ Our mobile app for dog parents is now available across Ontario. Furevery connect
 <br>By registering your business with Furevery, several pet parents across ontario will be able to see your business and review it. Having a business profile is a great way to advertise and you can also promote your business so it appears before others. 
 
 **CREATE YOUR PET PROFILE**
-
 <br>Create your pet profile by including a photo of your pup and their name. (How adorable!)
 
 **REVIEWS**
-
 <br>Within the Furevery app you can search businesses but also leave reviews. This helps the other pet parents in the community make decisions with their pet businesses. 
 
 **COMMUNITY EVENTS**
-
 <br>There is a calendar available on Furevery that allows you to search for pet friendly events happening within your area. You just select the city your looking for and the calendar will display events you and your 4 legged companion can attend together!
 
-**OTHER THINGS YOU CAN DO WITH FUREVERY**
-
+**OTHER WAYS YOU CAN SEARCH WITH FUREVERY**
 <br>The list continues with pet resources you can search for on Furevery. 
 You can also search for:
 <br>Training
