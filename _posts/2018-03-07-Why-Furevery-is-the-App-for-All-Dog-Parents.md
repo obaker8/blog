@@ -15,7 +15,7 @@ It can be overwhemling being a first time dog parent or moving to a new city wit
 <br>Create your pet profile by including a photo of your pup and their name. (How adorable!)
 
 **REVIEWS**
-<br>Within the Furevery app you can search for businesses and also leave reviews based on your experience with various businesses. This helps the other pet parents in the community make informed decisions thanks to your awesome reviews! 
+<br>Within the Furevery app you can search for businesses and also leave reviews based on your experience with various businesses. This helps other pet parents in your community make informed decisions thanks to your awesome reviews! 
 
 **COMMUNITY EVENTS**
 <br>There is a calendar available on Furevery that allows you to search for pet friendly events happening within your area. You just select the city your looking for and the calendar will display events you and your 4 legged companion can attend together! Share this event with your friends and unite with your community. 
