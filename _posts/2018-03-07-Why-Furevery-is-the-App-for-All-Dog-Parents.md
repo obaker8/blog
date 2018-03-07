@@ -35,9 +35,9 @@ You can search the app for:
 <br>Dental and 
 <br>Dog friendly Restaurants
 
-![_config.yml]({{ site.baseurl }}/images/familyphoto.jpeg)
-
 With the wide selection of services on Furevery, you can spend less time searching for quality services/businesses and spend more quality time with your pup! 
+
+![_config.yml]({{ site.baseurl }}/images/familyphoto.jpeg)
 
 **ARE YOU A PET BUSINESS OWNER?**
 <br>By registering your Pet Business with Furevery, pet parents across Ontario will be able to see your business and submit reviews on it. Having a business profile is a great way to advertise your service or product offerings. Businesses can also claim a 'Professional Business Profile' so your business gets more engagement near the top of the results page. Email info@furevery.com to get started today. 
