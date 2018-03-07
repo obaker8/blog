@@ -8,10 +8,10 @@ date: 2018-03-07
 
 Our mobile app for dog parents is now available across Ontario. Furevery connects our community of dog lovers with professional dog businesses and local dog-friendly social events. Whether you're looking for a reputable veterinarian or a trusty dog daycare, Furevery is your local guide to finding just the right place to care for, train, groom, spoil or socialize your dog. 
 
-<i>It can be stressful being a dog parent, sometimes you aren’t always aware of everything that’s available in your area. With Furevery it’s easy to search for exactly what you’re looking for. Now that Furevery has launched Ontario wide, it’s time to discuss some of the features it has.</i> On Furevery you can:
+It can be stressful being a dog parent, sometimes you aren’t always aware of everything that’s available in your area. With Furevery it’s easy to search for exactly what you’re looking for. Now that Furevery has launched Ontario wide, it’s time to discuss some of the features it has. 
+<br>On Furevery you can:
 
 **REGISTER YOUR BUSINESS**
-
 <br>By registering your business with Furevery, several pet parents across ontario will be able to see your business and review it. Having a business profile is a great way to advertise and you can also promote your business so it appears before others. 
 
 **CREATE YOUR PET PROFILE**
