@@ -34,7 +34,6 @@ date: 2018-03-13
 **OXBOWS OFF LEASH DOG PARK**
 ![_config.yml]({{ site.baseurl }}/images/oxbowspark.jpeg)
 <br>This dog park is located in Red Deer, Alberta and was made exclusively for dogs and their owners. The park offers trails, open training sites and even an area for small dogs. (Sometimes the big dogs can be intimidating!) Oxbows accommodates all dogs and is the perfect spot for exercise or leisure. We think this park is a must-see for all pup lovers!
-
 <br>That wraps up our list of trails and parks we think you need to visit with your pup. Plan an adventure and spend some quality time with your furry friend this spring at one of these beautiful locations!
 
 **P.S. For more ways you can spend quality time with your pup, download Furevery and check out dog friendly events near you!**
