@@ -5,7 +5,7 @@ title: "Spring Adventures With Your Pup"
 date: 2018-03-13
 ---
 ![_config.yml]({{ site.baseurl }}/images/SPRINGBLOG.png)
-As the spring weather is approaching, we thought it would be a great time to show you trails and parks that you can bring your pup to! These trails and parks are scattered across Ontario and we believe that they should be added to your bucket list. So get ready, grab your pup and plan a trip to one of these locations! 
+<br>As the spring weather is approaching, we thought it would be a great time to show you trails and parks that you can bring your pup to! These trails and parks are scattered across Ontario and we believe that they should be added to your bucket list. So get ready, grab your pup and plan a trip to one of these locations! 
 
 **BERCZY PARK**
 <br>Berczy Park is located on Wellington Street East in Toronto, ON. Although it isn’t a leash free park, it’s unique dog fountain drives pup lovers crazy! A perfect spot for a water break (yes, dogs are allowed to cool off in the fountain) or to sit and relax with your furry friend and soak up some sunshine. 
