@@ -12,7 +12,7 @@ date: 2018-03-13
 <br>Berczy Park is located on Wellington Street East in Toronto, ON. Although it isn’t a leash free park, it’s unique dog fountain drives pup lovers crazy! A perfect spot for a water break (yes, dogs are allowed to cool off in the fountain) or to sit and relax with your furry friend and soak up some sunshine. 
 
 **BECHTEL DOG PARK**
-![_config.yml]({{ site.baseurl }}/images/SPRINGBLOG.png)
+![_config.yml]({{ site.baseurl }}/images/bechtelpark.jpg)
 <br>Bechtel Dog Park is located in Waterloo and offers an open space for dogs to play, as well as trails to go for walks with a beautiful scenic view. The off-leash fenced in area is five acres, so there’s no question about having enough room for your dog to play! 
 
 **HIGH PARK**
