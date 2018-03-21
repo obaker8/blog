@@ -35,6 +35,7 @@ date: 2018-03-21
 
 **8.How often do you recommend we come in for nail clipping?**
 <br>We recommend once a month for nail clipping, so often times we’ll do a clip-only appointment. 
+![_config.yml]({{ site.baseurl }}/images/Furever-Loved5.jpg)
 
 **9.How do you trim the dog’s nails?**
 <br>We offer clipping but we also offer nail grinding, which helps us cut the nail shorter and it’s smoother. 
