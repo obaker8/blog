@@ -33,7 +33,7 @@ date: 2018-03-21
 **7.What proof of vaccinations does my dog need?**
 <br>We require proof of vaccination for rabies. Which in most cases is required every 3 years by Ontario veterinarians. 
 
-**8.How often do you recommend we come in for nail clipped**
+**8.How often do you recommend we come in for nail clipping?**
 <br>We recommend once a month for nail clipping, so often times we’ll do a clip-only appointment. 
 
 **9.How do you trim the dog’s nails?**
