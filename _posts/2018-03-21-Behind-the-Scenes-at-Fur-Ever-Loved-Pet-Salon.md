@@ -46,6 +46,6 @@ date: 2018-03-21
 
 **11.My dog got skunked, what do i do?**
 <br>Don’t try to wash your dog as that will spread the skunk oils into their skin. Keep them dry and call us immediately!
-![_config.yml]({{ site.baseurl }}/images/.jpg)
+![_config.yml]({{ site.baseurl }}/images/Furever-Loved2.jpg)
 
 
