@@ -8,7 +8,7 @@ date: 2018-03-21
 
 **1.How often should you bring your pet for grooming services?**
 <br>You should bring your pet for grooming approximately every 6-8 weeks, to promote healthy skin and coat. This time frame also depends on the breed and size of the dog as well. 
-![_config.yml]({{ site.baseurl }}/images/happydog.jpg)
+<br>![_config.yml]({{ site.baseurl }}/images/happydog.jpg)
 
 **2. What would you do in a situation where a pet was stressed during a service?**
 <br>If a pet is showing signs of stress during a service, we make sure to allow more time with the pet to make them feel comfortable. In between and after the service is completed, to prevent stress we do not crate the dogs
