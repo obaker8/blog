@@ -20,7 +20,7 @@ date: 2018-03-21
 
 **4. Should the pet parent stay during the appointment?**
 <br>Having the pet parent stay during grooming can be distracting to your pet and result in a longer and more stressful groom. This is our time to build a relationship and bond with your pet during the service. 
-![_config.yml]({{ site.baseurl }}/images/trishanddog.jpg)
+![_config.yml]({{ site.baseurl }}/images/trishanddog.JPG)
 
 **5.What products do you use during the grooming appointment?**
 <br>We use the WAHL line of pet grooming products.They are environmentally friendly, cruelty free and PH balanced. 
