@@ -6,7 +6,7 @@ date: 2018-03-21
 ---
 ![_config.yml]({{ site.baseurl }}/images/behindthescenes.png)
 
-<i>Last week we went behind the scenes at Fur-Ever Loved Pet Salon. They are located in Kitchener on Victoria Street N, and offer a wide selection of grooming and spa packages for your pet! Spring is finally here and we thought it would be the perfect time to ask questions many pet parents have before getting their furry companions groomed. It is officially time for some spring cleaning! 
+<i>Last week we went behind the scenes at Fur-Ever Loved Pet Salon. They are located in Kitchener on Victoria Street N, and offer a wide selection of grooming and spa packages for your pet! Spring is finally here and we thought it would be the perfect time to ask questions many pet parents have before getting their furry companions groomed. It is officially time for some spring cleaning! <i>
 
 **1.How often should you bring your pet for grooming services?**
 <br>You should bring your pet for grooming approximately every 6-8 weeks, to promote healthy skin and coat. This time frame also depends on the breed and size of the dog as well. 
