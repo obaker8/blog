@@ -4,6 +4,7 @@ comments: true
 title: "Behind the Scenes at Fur-Ever Loved Pet Salon "
 date: 2018-03-21
 ---
+![_config.yml]({{ site.baseurl }}/images/springcleaningpost.png)
 
 **1.How often should you bring your pet for grooming services?**
 <br>You should bring your pet for grooming approximately every 6-8 weeks, to promote healthy skin and coat. This time frame also depends on the breed and size of the dog as well. 
@@ -29,14 +30,16 @@ date: 2018-03-21
 **8.How often do you recommend we come in for nail clipped**
 <br>We recommend once a month for nail clipping, so often times we’ll do a clip-only appointment. 
 
-
 **9.How do you trim the dog’s nails?**
 <br>We offer clipping but we also offer nail grinding, which helps us cut the nail shorter and it’s smoother. 
+![_config.yml]({{ site.baseurl }}/images/Furever-Loved7.jpg)
 
 **10.Do you offer Creative Styling?**
 <br>Yes we do, we love getting creative with your pets. Whether it’s for a special occasion or holiday we offer all natural hair dyes and nail polishes. 
 
+![_config.yml]({{ site.baseurl }}/images/pandadog.jpg)
+
 **11.My got skunked, what do i do?**
-<br>Don’t try to wash your dog as that will spread the skunk oils into their skin. Keep them dry and call us immediately 
+<br>Don’t try to wash your dog as that will spread the skunk oils into their skin. Keep them dry and call us immediately!
 
 
