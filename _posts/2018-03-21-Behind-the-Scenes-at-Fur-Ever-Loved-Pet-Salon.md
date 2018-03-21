@@ -4,7 +4,7 @@ comments: true
 title: "Behind the Scenes at Fur-Ever Loved Pet Salon "
 date: 2018-03-21
 ---
-![_config.yml]({{ site.baseurl }}/images/springcleaningpost.png)
+![_config.yml]({{ site.baseurl }}/images/behindthescenes.png)
 
 **1.How often should you bring your pet for grooming services?**
 <br>You should bring your pet for grooming approximately every 6-8 weeks, to promote healthy skin and coat. This time frame also depends on the breed and size of the dog as well. 
