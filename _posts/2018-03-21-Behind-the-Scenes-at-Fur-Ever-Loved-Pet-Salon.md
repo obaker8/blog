@@ -53,7 +53,7 @@ date: 2018-03-21
 ![_config.yml]({{ site.baseurl }}/images/Furever-Loved2.jpg)
 
 
-We hope that we've answered some of your questions and that you feel prepared to take your pet to the groomers! If you are heading to Fur-Ever Pet Salon, note that the Victoria Street South bridge is closed for prepares. If you are heading south .............. and leave a couple extra minutes for travel time!
+We hope that we've answered some of your questions and that you feel prepared to take your pet to the groomers! If you are heading to Fur-Ever Pet Salon, note that the Victoria Street North bridge across the expressway is closed for prepares. Be sure to leave a couple extra minutes for travel time as traffic will be detoured to the Wellington Street North overpass and to the Frederick Street overpass.
 
 
 
