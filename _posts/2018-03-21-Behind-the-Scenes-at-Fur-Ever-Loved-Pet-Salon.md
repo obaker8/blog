@@ -28,7 +28,7 @@ date: 2018-03-21
 
 **6. I just got a new puppy, when can we start coming to Fur-Ever Loved?**
 <br>We’d love to meet you as soon as possible, as long as your pet has had their second round of vaccinations. Ask your vet for a copy of the vaccination records for you to bring along. 
-![_config.yml]({{ site.baseurl }}/images/fureverloved2.jpg)
+![_config.yml]({{ site.baseurl }}/images/doggy1.jpg)
 
 **7.What proof of vaccinations does my dog need?**
 <br>We require proof of vaccination for rabies. Which in most cases is required every 3 years by Ontario veterinarians. 
