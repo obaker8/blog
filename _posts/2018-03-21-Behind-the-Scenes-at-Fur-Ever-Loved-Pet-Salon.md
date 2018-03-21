@@ -8,15 +8,19 @@ date: 2018-03-21
 
 **1.How often should you bring your pet for grooming services?**
 <br>You should bring your pet for grooming approximately every 6-8 weeks, to promote healthy skin and coat. This time frame also depends on the breed and size of the dog as well. 
+![_config.yml]({{ site.baseurl }}/images/happydog.jpg)
 
 **2. What would you do in a situation where a pet was stressed during a service?**
 <br>If a pet is showing signs of stress during a service, we make sure to allow more time with the pet to make them feel comfortable. In between and after the service is completed, to prevent stress we do not crate the dogs
+![_config.yml]({{ site.baseurl }}/images/Furever-Loved1.jpg)
 
 **3.How should you prepare your pet for a visit?**
 <br>We encourage you to allow your dogs to relieve themselves before entering the salon. When checking in, please inform your pet stylist medical conditions, allergies, behavioural problems or pre existing conditions. This helps make the grooming process a better experience for your pet. 
+![_config.yml]({{ site.baseurl }}/images/Furever-Loved3.jpg)
 
 **4. Should the pet parent stay during the appointment?**
 <br>Having the pet parent stay during grooming can be distracting to your pet and result in a longer and more stressful groom. This is our time to build a relationship and bond with your pet during the service. 
+![_config.yml]({{ site.baseurl }}/images/trishanddog.jpg)
 
 **5.What products do you use during the grooming appointment?**
 <br>We use the WAHL line of pet grooming products.They are environmentally friendly, cruelty free and PH balanced. 
@@ -39,8 +43,8 @@ date: 2018-03-21
 
 ![_config.yml]({{ site.baseurl }}/images/pandadog.jpg)
 
-**11.My got skunked, what do i do?**
+**11.My dog got skunked, what do i do?**
 <br>Don’t try to wash your dog as that will spread the skunk oils into their skin. Keep them dry and call us immediately!
-![_config.yml]({{ site.baseurl }}/images/Furever-Loved1.jpg)
+![_config.yml]({{ site.baseurl }}/images/.jpg)
 
 
