@@ -24,9 +24,11 @@ date: 2018-03-21
 
 **5.What products do you use during the grooming appointment?**
 <br>We use the WAHL line of pet grooming products.They are environmentally friendly, cruelty free and PH balanced. 
+![_config.yml]({{ site.baseurl }}/images/fureverloved1.jpg)
 
 **6. I just got a new puppy, when can we start coming to Fur-Ever Loved?**
 <br>We’d love to meet you as soon as possible, as long as your pet has had their second round of vaccinations. Ask your vet for a copy of the vaccination records for you to bring along. 
+![_config.yml]({{ site.baseurl }}/images/fureverloved2.jpg)
 
 **7.What proof of vaccinations does my dog need?**
 <br>We require proof of vaccination for rabies. Which in most cases is required every 3 years by Ontario veterinarians. 
@@ -40,7 +42,6 @@ date: 2018-03-21
 
 **10.Do you offer Creative Styling?**
 <br>Yes we do, we love getting creative with your pets. Whether it’s for a special occasion or holiday we offer all natural hair dyes and nail polishes. 
-
 ![_config.yml]({{ site.baseurl }}/images/pandadog.jpg)
 
 **11.My dog got skunked, what do i do?**
