@@ -48,11 +48,12 @@ date: 2018-03-21
 <br>Yes we do, we love getting creative with your pets. Whether it’s for a special occasion or holiday we offer all natural hair dyes and nail polishes. 
 ![_config.yml]({{ site.baseurl }}/images/pandadog.jpg)
 
-**11.My dog got skunked, what do i do?**
+**11.My pet got skunked, what do i do?**
 <br>Don’t try to wash your dog as that will spread the skunk oils into their skin. Keep them dry and call us immediately!
 ![_config.yml]({{ site.baseurl }}/images/Furever-Loved2.jpg)
 
 
+We hope that we've answered some of your questions and that you feel prepared to take your pet to the groomers! If you are heading to Fur-Ever Pet Salon, note that the Victoria Street South bridge is closed for prepares. If you are heading south .............. and leave a couple extra minutes for travel time!
 
 
 
