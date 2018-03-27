@@ -15,7 +15,7 @@ date: 2018-03-27
 <br>Every dog is different, so every dog will react to situations differently. Certain dogs are not friendly with children and become aggressive. We suggest either leaving children at home, or if you know your dog doesn’t get along with children to be very cautious before going to the dog park. Accidents happen, and we want your visit to the dog park to be a positive experience for both you and your furry companion! 
 
 ![_config.yml]({{ site.baseurl }}/images/parkblog2.jpg)
-**Keep your dog’s personality in mind** 
+**Keep your dogs personality in mind** 
 <br>Some dogs are more aggressive or passive than others. If your dog has an aggressive nature, you should consider this before taking them to the dog park. The last thing you want is for your dog to get aggressive with someone else’s pooch because it makes it a stressful experience for both you and the other owner. 
 
 ![_config.yml]({{ site.baseurl }}/images/dogpark4.jpg)
