@@ -8,6 +8,7 @@ date: 2018-03-27
 
 ![_config.yml]({{ site.baseurl }}/images/parkblog1.jpg)
 **Clean up after your pet**
+
 <br>While at the dog park, it’s important to clean up after your pet when they are finished doing their business! Aside from being polite, this also reduces the spreading of bacteria and germs. No one wants to walk through a dog park full of waste, as there are a lot of parasites and diseases that other dogs can contract when coming in contact with it. Let’s keep our dogs, and the park clean! We suggest bringing a couple extra poop bags incase an owner forgets some. 
 
 ![_config.yml]({{ site.baseurl }}/images/parkblog3.jpg)
