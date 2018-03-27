@@ -20,9 +20,9 @@ date: 2018-03-27
 
 ![_config.yml]({{ site.baseurl }}/images/dogpark4.jpg)
 **Keep toys and treats at home**
-	Toys and treats are great, but unfortunately not for the dog park. Dogs get possessive over their toys and if another dog were to come and interrupt their play time, it wouldn’t go over so well. Not all dogs like sharing, so that’s why toys are not permitted at the parks! Along with toys, treats are also something you shouldn’t bring. This can cause other dog’s to get jealous and you could have a park of dogs running towards you. This may seem like a dream come true, until they jump on you. So leave the toys and treats at home! 
+<br>Toys and treats are great, but unfortunately not for the dog park. Dogs get possessive over their toys and if another dog were to come and interrupt their play time, it wouldn’t go over so well. Not all dogs like sharing, so that’s why toys are not permitted at the parks! Along with toys, treats are also something you shouldn’t bring. This can cause other dog’s to get jealous and you could have a park of dogs running towards you. This may seem like a dream come true, until they jump on you. So leave the toys and treats at home! 
 
-![_config.yml]({{ site.baseurl }}/images/dogpark5.jpg)
+![_config.yml]({{ site.baseurl }}/images/dogpark5.jpeg)
 **Keep the dog on a leash until in the park**
 <br>It’s very important that your dog remains on their leash until they are inside the fenced area. We don’t want your dog going off on an adventure by themselves because chasing after them isn’t fun and when it comes to running, they usually win. It’s also important to take your dog off of the leash when enter the fenced area because it can be upsetting for them to look at other pups that are roaming free. Who would want to humiliate their dog in front of their furry friends? No one! 
 
