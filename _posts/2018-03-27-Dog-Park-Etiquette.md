@@ -19,6 +19,7 @@ date: 2018-03-27
 <br>Some dogs are more aggressive or passive than others. If your dog has an aggressive nature, you should consider this before taking them to the dog park. The last thing you want is for your dog to get aggressive with someone else’s pooch because it makes it a stressful experience for both you and the other owner. 
 
 ![_config.yml]({{ site.baseurl }}/images/dogpark4.jpg)
+
 **Keep toys and treats at home**
 <br>Toys and treats are great, but unfortunately not for the dog park. Dogs get possessive over their toys and if another dog were to come and interrupt their play time, it wouldn’t go over so well. Not all dogs like sharing, so that’s why toys are not permitted at the parks! Along with toys, treats are also something you shouldn’t bring. This can cause other dog’s to get jealous and you could have a park of dogs running towards you. This may seem like a dream come true, until they jump on you. So leave the toys and treats at home! 
 
