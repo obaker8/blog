@@ -36,7 +36,7 @@ date: 2018-03-27
 
 ![_config.yml]({{ site.baseurl }}/images/dogpark7.jpg)
 **Remember that you are responsible for your dog**
-<br>Keep in mind that you are 110% responsible for your dog while at the park. If your dog is misbehaving don’t leave it up to someone else to handle the issue for you. The best thing to do in a situation of misbehaving is to remove your dog from the park and perhaps try again another day! No one’s dog is perfect but it’s important to take responsibility for your pooch and their actions.
+<br>Keep in mind that you are 110% responsible for your dog while at the park. If your dog is misbehaving don’t leave it up to someone else to handle the issue for you. The best thing to do in a situation of misbehaving is to remove your dog from the park and perhaps try again another day! No ones dog is perfect but it’s important to take responsibility for your pooch and their actions.
 	
 ![_config.yml]({{ site.baseurl }}/images/dogpark8.jpg)
 **Be extra prepared for a rainy day**
