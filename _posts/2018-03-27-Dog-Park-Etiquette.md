@@ -4,7 +4,7 @@ comments: true
 title: "Dog Park Etiquette "
 date: 2018-03-27
 ---
-<i>With the spring weather amongst us, dog park’s are becoming busier with eager pups ready to play. Dog parks are a great way for your dog to socialize and play but there are also some things to keep in mind while your there! We’ve created a list of tips and tricks to help you with your visit to the park!<i> 
+<i>With the spring weather amongst us, dog parks are becoming busier with eager pups ready to play. Dog parks are a great way for your dog to socialize and play but there are also some things to keep in mind while your there! We’ve created a list of tips and tricks to help you with your visit to the park!<i> 
 
 ![_config.yml]({{ site.baseurl }}/images/parkblog1.jpg)
 **Clean up after your pet**
