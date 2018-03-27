@@ -27,7 +27,7 @@ date: 2018-03-27
 
 ![_config.yml]({{ site.baseurl }}/images/parkblog.jpeg)
 
-**Keep your dog on a leash until in the park**
+**Keep your dog on a leash until inside the park**
 <br>It’s very important that your dog remains on their leash until they are inside the fenced area. We don’t want your dog going off on an adventure by themselves because chasing after them isn’t fun and when it comes to running, they usually win. It’s also important to take your dog off of the leash when enter the fenced area because it can be upsetting for them to look at other pups that are roaming free. Who would want to humiliate their dog in front of their furry friends? No one! 
 
 ![_config.yml]({{ site.baseurl }}/images/parkblog6.jpg)
