@@ -13,8 +13,8 @@ date: 2018-03-27
 
 ![_config.yml]({{ site.baseurl }}/images/parkblog3.jpg)
 
-**Your dog or another may not like children**
-<br> Every dog is different, so every dog will react to situations differently. Certain dogs are not friendly with children and become aggressive. We suggest either leaving children at home, or if you know your dog doesn’t get along with children to be very cautious before going to the dog park. Accidents happen, and we want your visit to the dog park to be a positive experience for both you and your furry companion! 
+**Your dog may not be comfortable around children**
+<br> Every dog is different. Certain dogs are not comfortable or used to being around children and may become aggressive. We suggest leaving children at home, until they are older. Accidents happen, and we want your visit to the dog park to be a positive experience for both you and your furry companion! 
 
 ![_config.yml]({{ site.baseurl }}/images/parkblog2.jpg)
 **Keep your dogs personality in mind** 
@@ -36,7 +36,7 @@ date: 2018-03-27
 
 ![_config.yml]({{ site.baseurl }}/images/dogpark7.jpg)
 **Remember that you are responsible for your dog**
-<br>Keep in mind that you are 110% responsible for your dog while at the park. If your dog is misbehaving don’t leave it up to someone else to handle the issue for you. The best thing to do in a situation of misbehaving is to remove your dog from the park and perhaps try again another day! No ones dog is perfect but it’s important to take responsibility for your pooch and their actions.
+<br>Keep in mind that you are 110% responsible for your dog while at the park. If your dog is misbehaving don’t leave it up to someone else to handle the issue for you. The best thing to do in a situation of misbehaving is to remove your dog from the park and perhaps try again another day! No one’s dog is perfect but it’s important to take responsibility for your pooch and their actions.
 	
 ![_config.yml]({{ site.baseurl }}/images/dogpark8.jpg)
 **Be extra prepared for a rainy day**
