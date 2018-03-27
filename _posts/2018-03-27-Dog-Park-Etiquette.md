@@ -7,10 +7,12 @@ date: 2018-03-27
 <i>With the spring weather amongst us, dog parks are becoming busier with eager pups ready to play. Dog parks are a great way for your dog to socialize and play but there are also some things to keep in mind while your there! We’ve created a list of tips and tricks to help you with your visit to the park!<i> 
 
 ![_config.yml]({{ site.baseurl }}/images/parkblog1.jpg)
-**Clean up after your pet**<br>While at the dog park, it’s important to clean up after your pet when they are finished doing their business! Aside from being polite, this also reduces the spreading of bacteria and germs. No one wants to walk through a dog park full of waste, as there are a lot of parasites and diseases that other dogs can contract when coming in contact with it. Let’s keep our dogs, and the park clean! We suggest bringing a couple extra poop bags incase an owner forgets some. 
+**Clean up after your pet**
+<br> While at the dog park, it’s important to clean up after your pet when they are finished doing their business! Aside from being polite, this also reduces the spreading of bacteria and germs. No one wants to walk through a dog park full of waste, as there are a lot of parasites and diseases that other dogs can contract when coming in contact with it. Let’s keep our dogs, and the park clean! We suggest bringing a couple extra poop bags incase an owner forgets some. 
 
 ![_config.yml]({{ site.baseurl }}/images/parkblog3.jpg)
-**Your dog or another may not like children**<br>Every dog is different, so every dog will react to situations differently. Certain dogs are not friendly with children and become aggressive. We suggest either leaving children at home, or if you know your dog doesn’t get along with children to be very cautious before going to the dog park. Accidents happen, and we want your visit to the dog park to be a positive experience for both you and your furry companion! 
+**Your dog or another may not like children**
+<br> Every dog is different, so every dog will react to situations differently. Certain dogs are not friendly with children and become aggressive. We suggest either leaving children at home, or if you know your dog doesn’t get along with children to be very cautious before going to the dog park. Accidents happen, and we want your visit to the dog park to be a positive experience for both you and your furry companion! 
 
 ![_config.yml]({{ site.baseurl }}/images/parkblog2.jpg)
 **Keep your dogs personality in mind** 
