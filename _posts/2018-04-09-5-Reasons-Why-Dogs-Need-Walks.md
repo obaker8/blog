@@ -8,7 +8,7 @@ date: 2018-04-09
 
 We all know it's important to make sure our pups get walked everyday, but today we wanted to share some of the top reasons why. Walks keep your pup in great physical shape as well as build your dog's mental strength, which contributes to its overall happiness. Happy dogs = Happy humans! 
 
-Here's 5 reasons why walks are so important to your dog's health:
+Here's **5 reasons** why walks are so important to your dog's health:
 
 **1. Inactive Dogs Are Often Overweight Dogs**
 52% of dogs in the U.S. are obese or overweight, according to a study by the Association for Pet Obesity Prevention (APOP), and this can shorten a dog's life. That extra girth carries an increased risk for diabetes, heart disease and several other pricey health issues. AND It has been proven that fit dogs can live two or more years longer than obese dogs! That is why this is coming in at reason number one! 
