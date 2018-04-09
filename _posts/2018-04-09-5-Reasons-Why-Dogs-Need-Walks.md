@@ -31,4 +31,4 @@ Here's 5 reasons why walks are so important to your dog's health:
  
  ![_config.yml]({{ site.baseurl }}/images/beautiful-conifers-dog-247522.jpg)
  
-<i>Oh and hey! In the interest of promoting healthy and happy living for our Furevery pups and pup parents, check out the Furevery app to find local and loving dog walkers, dog sitters or daycares to be sure that your dog is getting the exercise they need to live a happy, healthy live!</i>
+<i>Oh and hey! In the interest of promoting healthy and happy living for our Furevery pups, check out the app to find local and loving dog walkers, dog sitters or daycares to be sure that your dog is getting the exercise they need</i>
