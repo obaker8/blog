@@ -9,7 +9,7 @@ In case you haven't seen, the Furevery Founders recently adopted another dog to 
 
 ![_config.yml]({{ site.baseurl }}/images/cute puppy.jpg)
 
-Here's **6 Must-Dos** when raising a rescue puppy: 
+Here are **6 Must-Dos** when raising a rescue puppy: 
 
 **1. House Train Your Pooch**
 
