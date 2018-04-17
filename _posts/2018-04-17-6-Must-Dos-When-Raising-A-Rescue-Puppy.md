@@ -17,7 +17,7 @@ So, this may be an obvious one, but sometimes when you rescue a puppy the rescue
 
    - Crate Training 
      
-     - For many puppy's the crate is a safe place for them. Never put them in their create as a form of discipline, because then      they will see the crate as a bad thing. Praise them when they go into the create! 
+     - For many puppy's the crate is a safe place for them. Never put them in their create as a form of discipline, because then      they will see the crate as a bad thing. Praise them when they go into the crate! 
      - At a young age, puppy's should only be      left for a few hours in the crate, because their bladders are teeny tiny! Then when you open the create, promptly take        the puppy outside to releave themselves. They will slowly learn that the crate is a comfort zone and when they are first      let out of the create, that is bathroom time. 
      
    - Common Grounds
