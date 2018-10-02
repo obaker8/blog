@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "4 Dog-Friendly Patios for Summer Sipping in Kitchener-Waterloo"
+title: "3 Dog-Friendly Patios for Summer Sipping in Kitchener-Waterloo"
 date: 2017-07-05
 ---
 
