@@ -11,12 +11,6 @@ But bringing your four-legged friend along for a patio adventure isn't always ea
 
 ![_config.yml]({{ site.baseurl }}/images/d0495a_e3249e6a8f594eb5aa50665f263a87bf-mv2.webp)
 
-**The Boathouse - Kitchener**
-
-While they set a three-dog maximum on the patio at any given time, Victoria Park gem The Boathouse is dog-friendly, at least as of 2016. Boasting an unbeatable view of the lake in Victoria Park, and located along one of the main walking trails, The Boathouse is a great place to start or finish a walk. And with an extensive menu of food and drink options, you won't go away hungry.
-
-![_config.yml]({{ site.baseurl }}/images/d0495a_d54ae3cbb97f498e8eb96746062c60f5-mv2.webp)
-
 **Beertown - Waterloo**
 
 With 30 tap lines, and the Paddletron 3000, Beertown is a Waterloo staple that also happens to feature a massive, dog-friendly patio. Nestled in the heart of downtown Waterloo, Beertown is close to ample parking, and has both a mile-long beer menu, and great food. When you're on a date with your dog, what more could you ask for?
